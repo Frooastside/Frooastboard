@@ -460,22 +460,7 @@ Wire Wire Line
 	2250 4000 2250 4200
 Wire Wire Line
 	2550 3100 2550 3750
-$Comp
-L Device:Polyfuse_Small F1
-U 1 1 60B8785D
-P 2550 2900
-F 0 "F1" V 2345 2900 50  0000 C CNN
-F 1 "Polyfuse_Small" V 2650 2900 50  0000 C CNN
-F 2 "Fuse:Fuse_1206_3216Metric" H 2600 2700 50  0001 L CNN
-F 3 "~" H 2550 2900 50  0001 C CNN
-	1    2550 2900
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	2450 2900 2350 2900
 Connection ~ 2350 2900
-Wire Wire Line
-	2650 2900 2750 2900
 Wire Wire Line
 	2750 2900 2750 2800
 $Comp
@@ -680,27 +665,6 @@ Wire Wire Line
 	3750 1700 3750 1650
 Wire Wire Line
 	3750 2200 4000 2200
-Connection ~ 4950 1950
-Wire Wire Line
-	5200 1950 4950 1950
-Wire Wire Line
-	5200 1850 5200 1950
-Connection ~ 4950 1550
-Wire Wire Line
-	5200 1550 4950 1550
-Wire Wire Line
-	5200 1650 5200 1550
-$Comp
-L Device:C_Small C7
-U 1 1 60B08D28
-P 5200 1750
-F 0 "C7" H 5292 1796 50  0000 L CNN
-F 1 "0.1u" H 5292 1705 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 5200 1750 50  0001 C CNN
-F 3 "~" H 5200 1750 50  0001 C CNN
-	1    5200 1750
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	3350 1650 3350 2200
 Wire Wire Line
@@ -979,4 +943,6 @@ F 3 "~" H 2900 7350 50  0001 C CNN
 	1    2900 7350
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	2350 2900 2750 2900
 $EndSCHEMATC
