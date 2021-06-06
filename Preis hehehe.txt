@@ -1,0 +1,12 @@
+Crystal 0,14$ 0,12€
+Reset Switch 0,13$ 0,11€
+FN Switches 0,14$ * 2 0,28$ 0,23€
+Type C 0,32$ 0,26€
+RGB LED 0,12$ 0,79€
+Atmega32u2 3,04€
+hotswap socket 1 * 0,26€ 4 * 1,04€
+
+5 pin red mx switch 8 = 5,29, 2 * = 1,32€
+
+
+7,24€ (usb kabel 12,23) 
