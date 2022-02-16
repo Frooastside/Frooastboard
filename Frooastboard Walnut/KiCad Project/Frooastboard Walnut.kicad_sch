@@ -3798,7 +3798,7 @@
     (property "Value" "ATmega32U4-A" (id 1) (at 209.0294 121.92 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_QFP:TQFP-44_10x10mm_P0.8mm" (id 2) (at 207.01 73.66 0)
+    (property "Footprint" "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm" (id 2) (at 207.01 73.66 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" (id 3) (at 207.01 73.66 0)
@@ -7188,7 +7188,7 @@
       (reference "SW1") (unit 1) (value "SW_Push") (footprint "random_keyboard_parts:SKQG-1155865")
     )
     (path "/20d6f2ba-982f-4f6c-b65d-ffaec9a20f50"
-      (reference "U1") (unit 1) (value "ATmega32U4-A") (footprint "Package_QFP:TQFP-44_10x10mm_P0.8mm")
+      (reference "U1") (unit 1) (value "ATmega32U4-A") (footprint "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm")
     )
     (path "/aab2d817-6308-4a4a-beb4-4d42d4203987"
       (reference "USB1") (unit 1) (value "HRO-TYPE-C-31-M-12") (footprint "Type_C:HRO-TYPE-C-31-M-12")
