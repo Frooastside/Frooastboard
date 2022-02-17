@@ -4243,7 +4243,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 101.6 181.61 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3609f039-65f7-4b1e-a8b5-a2dd513fc106)
-    (property "Reference" "KEY_RALT" (id 0) (at 102.4856 175.26 0)
+    (property "Reference" "KEY_RALT1" (id 0) (at 102.4856 175.26 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (id 1) (at 102.4856 176.53 0)
@@ -5928,7 +5928,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 44.45 181.61 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b783cfe5-c363-4ca8-afee-9d9930a3155c)
-    (property "Reference" "KEY_LGUI" (id 0) (at 45.3356 175.26 0)
+    (property "Reference" "KEY_LGUI1" (id 0) (at 45.3356 175.26 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (id 1) (at 45.3356 176.53 0)
@@ -7277,7 +7277,7 @@
       (reference "KEY_LEFT1") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
     (path "/b783cfe5-c363-4ca8-afee-9d9930a3155c"
-      (reference "KEY_LGUI") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1.25U-NoLED")
+      (reference "KEY_LGUI1") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1.25U-NoLED")
     )
     (path "/80027bf4-ba21-475f-962a-f68083d5de99"
       (reference "KEY_LSHIFT1") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1.25U-NoLED")
@@ -7310,7 +7310,7 @@
       (reference "KEY_R1") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
     (path "/3609f039-65f7-4b1e-a8b5-a2dd513fc106"
-      (reference "KEY_RALT") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1.25U-NoLED")
+      (reference "KEY_RALT1") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1.25U-NoLED")
     )
     (path "/43089aa8-6dd5-45fe-80b8-12017e9dbfad"
       (reference "KEY_RCTRL1") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1.25U-NoLED")
