@@ -12,8 +12,8 @@
 #### 1x Crystal (C133335)
 - [LCSC](https://lcsc.com/search?q=C133335)
 
-#### 1x Reset Button (C221929)
-- [LCSC](https://lcsc.com/search?q=C221929)
+#### 1x Reset Button (C2837074)
+- [LCSC](https://lcsc.com/search?q=C2837074)
 
 #### 1x USB Type-C Buchse (C165948)
 - [LCSC](https://lcsc.com/search?q=C165948)
