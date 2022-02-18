@@ -4175,7 +4175,7 @@
   (symbol (lib_id "Driver_LED:IS31FL3737") (at 30.48 49.53 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 246ade15-00d0-4612-b83b-6ad87bc263c6)
-    (property "Reference" "U?" (id 0) (at 37.5794 11.43 0)
+    (property "Reference" "U2" (id 0) (at 37.5794 11.43 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "IS31FL3737" (id 1) (at 37.5794 13.97 0)
@@ -7641,7 +7641,7 @@
       (reference "U1") (unit 1) (value "ATmega32U4-A") (footprint "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm")
     )
     (path "/246ade15-00d0-4612-b83b-6ad87bc263c6"
-      (reference "U?") (unit 1) (value "IS31FL3737") (footprint "Package_DFN_QFN:QFN-40-1EP_5x5mm_P0.4mm_EP3.8x3.8mm")
+      (reference "U2") (unit 1) (value "IS31FL3737") (footprint "Package_DFN_QFN:QFN-40-1EP_5x5mm_P0.4mm_EP3.8x3.8mm")
     )
     (path "/aab2d817-6308-4a4a-beb4-4d42d4203987"
       (reference "USB1") (unit 1) (value "HRO-TYPE-C-31-M-12") (footprint "Type_C:HRO-TYPE-C-31-M-12")
