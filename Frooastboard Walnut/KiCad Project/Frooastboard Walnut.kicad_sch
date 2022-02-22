@@ -4674,7 +4674,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 130.4256 125.73 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Only:MXOnly-ISO-NoLED-NoStabilizers" (id 2) (at 113.665 131.445 0)
+    (property "Footprint" "MX_Only:MXOnly-ISO-ROTATED-NoLED-NoStabilizers" (id 2) (at 113.665 131.445 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 113.665 131.445 0)
@@ -7310,7 +7310,7 @@
       (reference "KEY_END1") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
     (path "/53c8ac3c-456e-47c9-a6eb-2ee6377474f4"
-      (reference "KEY_ENTER1") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-ISO-NoLED-NoStabilizers")
+      (reference "KEY_ENTER1") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-ISO-ROTATED-NoLED-NoStabilizers")
     )
     (path "/fbda3cca-a5fe-4f20-8515-486859fc314e"
       (reference "KEY_ENTER2") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-2.25U-NoLED")
