@@ -5553,7 +5553,7 @@
   (symbol (lib_id "Mechanical:MountingHole") (at 190.5 154.94 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 8ec3d026-51c1-4763-8906-c03bd74f44cf)
-    (property "Reference" "H?" (id 0) (at 193.04 153.6699 0)
+    (property "Reference" "H13" (id 0) (at 193.04 153.6699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (id 1) (at 191.77 156.21 0)
@@ -7360,7 +7360,7 @@
       (reference "H12") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965")
     )
     (path "/8ec3d026-51c1-4763-8906-c03bd74f44cf"
-      (reference "H?") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965")
+      (reference "H13") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965")
     )
     (path "/c8f17c30-a4f6-46fa-aabd-8086ab44b007"
       (reference "KEY_#1") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-NoLED")
