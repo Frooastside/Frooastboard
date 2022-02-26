@@ -1,6 +1,6 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
   (symbol "RGB_LED_6_Pin" (in_bom yes) (on_board yes)
-    (property "Reference" "U" (id 0) (at -6.35 1.905 0)
+    (property "Reference" "D" (id 0) (at -6.35 1.905 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "RGB_LED_6_Pin" (id 1) (at 0 3.81 0)
