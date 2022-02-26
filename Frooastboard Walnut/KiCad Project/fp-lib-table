@@ -2,4 +2,5 @@
   (lib (name "MX_Only")(type "KiCad")(uri "${KIPRJMOD}/../../include/MX_Alps_Hybrid/MX_Only.pretty")(options "")(descr ""))
   (lib (name "Type_C")(type "KiCad")(uri "${KIPRJMOD}/../../include/Type_C")(options "")(descr ""))
   (lib (name "random_keyboard_parts")(type "KiCad")(uri "${KIPRJMOD}/../../include/random_keyboard_parts")(options "")(descr ""))
+  (lib (name "Frooastboard Footprints")(type "KiCad")(uri "C:/Users/Simon/Documents/Programmieren/Frooastboard/Frooastboard Footprints.pretty")(options "")(descr ""))
 )

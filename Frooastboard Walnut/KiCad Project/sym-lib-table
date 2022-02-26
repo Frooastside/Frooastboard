@@ -2,4 +2,5 @@
   (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "${KIPRJMOD}/../../include/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
   (lib (name "random-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/../../include/random_keyboard_parts/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
   (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/../../include/Type_C/Type-C.lib")(options "")(descr ""))
+  (lib (name "Frooastboard Symbols")(type "KiCad")(uri "C:/Users/Simon/Documents/Programmieren/Frooastboard/Frooastboard Symbols.kicad_sym")(options "")(descr ""))
 )
