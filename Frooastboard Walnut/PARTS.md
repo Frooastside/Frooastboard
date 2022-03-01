@@ -3,9 +3,9 @@
 ## Electronic Components
 
 #### 1x Atmega32u4-MU (C112161)
+- [Quest Components](https://www.questcomp.com/part/atmega32u4-mu/atmel-corp/110027911/0)
 - [Mouser](https://www.mouser.de/ProductDetail/Microchip-Technology-Atmel/ATMEGA32U4-MU?qs=JV7lzlMm3yJYRpi0cY3cKw%3D%3D)
 - [LCSC](https://lcsc.com/search?q=C112161)
-- [Quest Components](https://www.questcomp.com/part/atmega32u4-mu/atmel-corp/110027911/0)
 - [Utmel](https://www.utmel.com/productdetail/microchiptechnology-atmega32u4mu-4814556)
 
 #### 1x LED Driver IS31FL3737-QFLS4-TR (870-31FL3737BQFLS4TR)
@@ -20,15 +20,16 @@
 #### 1x Reset Button (C2837074)
 - [LCSC](https://lcsc.com/search?q=C2837074)
 
-#### 1x USB Type-C Buchse (C165948)
+#### 1x USB Type-C Socket (C165948)
 - [LCSC](https://lcsc.com/search?q=C165948)
 
-#### 44x RGB LED
+#### 48x RGB LED Everlight Elec 99-235/RSGBB7C-A22/2D (C131270)
+- [LCSC](https://lcsc.com/search?q=C131270)
 
 ## Materials
 
 - [Holz brett](https://modellbau-holz.jimdo.com/startseite/brettchen-bretter/)
-- [Holz scheibe](https://modellbau-holz.jimdo.com/startseite/zum-shop/drechsel-dekupier-holz/)
+- [Holz brett 2](https://modellbau-holz.jimdo.com/startseite/zum-shop/drechsel-dekupier-holz/)
 
 ## Switches
 
