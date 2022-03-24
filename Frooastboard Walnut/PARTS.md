@@ -8,7 +8,7 @@
 - [LCSC](https://lcsc.com/search?q=C112161)
 - [Utmel](https://www.utmel.com/productdetail/microchiptechnology-atmega32u4mu-4814556)
 
-#### 1x LED Driver IS31FL3737-QFLS4-TR (870-31FL3737BQFLS4TR)
+#### 1x LED Driver IS31FL3737B-QFLS4-TR (870-31FL3737BQFLS4TR)
 - [Mouser](https://www.mouser.de/ProductDetail/Lumissil/IS31FL3737B-QFLS4-TR?qs=vHuUswq2%252BsxL5YE9xYto9Q%3D%3D#.Yg-TSJOpoOs.link)
 
 #### 144x Hot Swap Sockets (575-7305015154727100)
