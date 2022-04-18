@@ -14,7 +14,7 @@
 #### 144x Hot Swap Sockets (575-7305015154727100)
 - [Mouser](https://www.mouser.de/ProductDetail/Mill-Max/7305-0-15-15-47-27-10-0?qs=QVz7UnnaAAGZJgZDI7Hd/A%3D%3D)
 
-#### 1x Crystal (C133335)
+#### 1x Crystal 16Mhz (C133335)
 - [LCSC](https://lcsc.com/search?q=C133335)
 
 #### 1x Reset Button (C2837074)
