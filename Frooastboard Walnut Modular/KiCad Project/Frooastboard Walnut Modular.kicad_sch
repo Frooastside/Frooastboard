@@ -4577,7 +4577,7 @@
     (property "Value" "1M" (id 1) (at 308.61 123.1899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 306.07 121.92 0)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 306.07 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 306.07 121.92 0)
@@ -4921,7 +4921,7 @@
     (property "Value" "1M" (id 1) (at 308.61 133.3499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 306.07 132.08 0)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 306.07 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 306.07 132.08 0)
@@ -5185,7 +5185,7 @@
     (property "Value" "Battery Test Point" (id 1) (at 386.08 185.4199 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 383.54 184.15 0)
+    (property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm" (id 2) (at 383.54 184.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 383.54 184.15 0)
@@ -5869,7 +5869,7 @@
     (property "Value" "100n" (id 1) (at 299.72 133.3562 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 297.18 132.08 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (id 2) (at 297.18 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 297.18 132.08 0)
@@ -6269,7 +6269,7 @@
       (reference "C31") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/e3ac5bb8-ad3c-47a0-bcd2-6083113bea9f"
-      (reference "C32") (unit 1) (value "100n") (footprint "")
+      (reference "C32") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/9151085a-7b41-4963-b313-b0cf7786b5dd"
       (reference "J1") (unit 1) (value "SW Interface") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
@@ -6323,10 +6323,10 @@
       (reference "R12") (unit 1) (value "100R") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/48bc2f66-5a01-4064-8f04-86393c5571c1"
-      (reference "R13") (unit 1) (value "1M") (footprint "")
+      (reference "R13") (unit 1) (value "1M") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/72540c1c-c2c3-43f3-99e6-8ba9a71d2977"
-      (reference "R14") (unit 1) (value "1M") (footprint "")
+      (reference "R14") (unit 1) (value "1M") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/090f428e-6eac-441a-a354-b49dcd6778e6"
       (reference "TP1") (unit 1) (value "NRF_TXD") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
@@ -6344,7 +6344,7 @@
       (reference "TP5") (unit 1) (value "QSPI_CS") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
     )
     (path "/8ddbd812-d1b5-4cd8-9453-80f86aea714b"
-      (reference "TP6") (unit 1) (value "Battery Test Point") (footprint "")
+      (reference "TP6") (unit 1) (value "Battery Test Point") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
     )
     (path "/7a332b0c-4cba-438b-85c1-9efe2690fb62"
       (reference "U1") (unit 1) (value "RP2040") (footprint "Frooastboard Footprints:RP2040-QFN-56")
