@@ -9558,52 +9558,52 @@
       (reference "M2") (unit 1) (value "Frooastboard_MM2040") (footprint "")
     )
     (path "/26642831-2675-418c-b9f8-1fa8a8351387/980bf4eb-938a-4e2c-b5b5-1df8fcbd77cc"
-      (reference "MX1") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX1") (unit 1) (value "Escape") (footprint "")
     )
     (path "/26642831-2675-418c-b9f8-1fa8a8351387/7adcf149-976b-407e-86d8-08334784d5c5"
-      (reference "MX2") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX2") (unit 1) (value "F1") (footprint "")
     )
     (path "/26642831-2675-418c-b9f8-1fa8a8351387/1868e430-1011-44c0-b0f6-5d8b0007c86b"
-      (reference "MX3") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX3") (unit 1) (value "F2") (footprint "")
     )
     (path "/26642831-2675-418c-b9f8-1fa8a8351387/3eae52f7-14ed-4de0-a361-aa5e24012269"
-      (reference "MX4") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX4") (unit 1) (value "F3") (footprint "")
     )
     (path "/26642831-2675-418c-b9f8-1fa8a8351387/52c3cca0-e26d-42c9-a051-be83edafc20d"
-      (reference "MX5") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX5") (unit 1) (value "F4") (footprint "")
     )
     (path "/26642831-2675-418c-b9f8-1fa8a8351387/7497f666-a8e8-4393-ae74-fd522e92f9fc"
-      (reference "MX6") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX6") (unit 1) (value "F5") (footprint "")
     )
     (path "/26642831-2675-418c-b9f8-1fa8a8351387/698c19c4-7512-480b-ae52-153dff8889ea"
-      (reference "MX7") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX7") (unit 1) (value "F6") (footprint "")
     )
     (path "/26642831-2675-418c-b9f8-1fa8a8351387/feea873c-843f-4c19-a94e-ef102def64ec"
-      (reference "MX8") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX8") (unit 1) (value "F7") (footprint "")
     )
     (path "/26642831-2675-418c-b9f8-1fa8a8351387/ad8036f1-4a96-4253-af24-2bd4ed990f75"
-      (reference "MX9") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX9") (unit 1) (value "F8") (footprint "")
     )
     (path "/26642831-2675-418c-b9f8-1fa8a8351387/33b2d644-784f-447f-bfda-b794fc249d39"
-      (reference "MX10") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX10") (unit 1) (value "F9") (footprint "")
     )
     (path "/26642831-2675-418c-b9f8-1fa8a8351387/dce13b3c-8431-4f8d-bf87-b65e19f2d23d"
-      (reference "MX11") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX11") (unit 1) (value "F10") (footprint "")
     )
     (path "/26642831-2675-418c-b9f8-1fa8a8351387/a8a5de6a-06b4-44e5-80c4-00ba8824b016"
-      (reference "MX12") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX12") (unit 1) (value "F11") (footprint "")
     )
     (path "/26642831-2675-418c-b9f8-1fa8a8351387/e7ed82ab-ae6b-4432-b00e-529c2d600bcb"
-      (reference "MX13") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX13") (unit 1) (value "F12") (footprint "")
     )
     (path "/26642831-2675-418c-b9f8-1fa8a8351387/65faf74c-0a57-4d2f-9b66-d7eae144f3e8"
-      (reference "MX14") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX14") (unit 1) (value "Print Screen") (footprint "")
     )
     (path "/26642831-2675-418c-b9f8-1fa8a8351387/b2730ea2-74b4-4511-8dcf-f950329cf0f7"
-      (reference "MX15") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX15") (unit 1) (value "Scroll Lock") (footprint "")
     )
     (path "/26642831-2675-418c-b9f8-1fa8a8351387/5f00cc2b-9fc6-4ab6-bac9-e332ff39a569"
-      (reference "MX16") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX16") (unit 1) (value "Pause") (footprint "")
     )
     (path "/09b078b3-456a-474e-a5d8-18073a8eaa09/a19a9ef6-60b2-4291-9bf0-59b28b51229b"
       (reference "MX17") (unit 1) (value "MX-NoLED") (footprint "")
@@ -9672,220 +9672,229 @@
       (reference "MX38") (unit 1) (value "MX-NoLED") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/8dcb55d8-0469-42ad-8f1d-20336a05d43e"
-      (reference "MX39") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX39") (unit 1) (value "Escape") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/dd4fbee4-115f-4c19-ab93-14696408d128"
-      (reference "MX40") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX40") (unit 1) (value "Tab") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/a88b7616-31df-4529-ae63-3c6f8eb64f1f"
-      (reference "MX41") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX41") (unit 1) (value "Caps Lock") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/e0273ddf-fe15-4c82-a2cd-ab37bad633e8"
-      (reference "MX42") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX42") (unit 1) (value "Left Shift") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/1ac99e9a-2181-49c7-81c1-4669a97cc89b"
-      (reference "MX43") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX43") (unit 1) (value "Left Control") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/a0873c32-0947-4155-82be-b6df9ebc09d6"
-      (reference "MX44") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX44") (unit 1) (value "8") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/6bd70fb9-9342-42b9-944b-7443a8135af5"
-      (reference "MX45") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX45") (unit 1) (value "I") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/58dd78fa-e67f-4c74-89db-1f92da03a94e"
-      (reference "MX46") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX46") (unit 1) (value "K") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/fcff5127-04fd-4a99-8a03-7dda361630e9"
-      (reference "MX47") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX47") (unit 1) (value "M") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/1b316062-0649-491e-b3d2-14eaf52965aa"
-      (reference "MX48") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX48") (unit 1) (value "1") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/92d570a7-8afe-477a-ae38-4aa2ed111fd2"
-      (reference "MX49") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX49") (unit 1) (value "Q") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/7397efa7-b230-41a8-a43e-71be0ac8f542"
-      (reference "MX50") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX50") (unit 1) (value "A") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/ff211791-07b0-414a-88e6-9a95518683f8"
-      (reference "MX51") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX51") (unit 1) (value "\\") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/89c42a17-7864-443d-92af-9181aaf051c5"
-      (reference "MX52") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX52") (unit 1) (value "Left GUI") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/b7f5b6eb-a12a-4cf1-8a51-84595019cceb"
-      (reference "MX53") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX53") (unit 1) (value "9") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/0889370f-3401-478b-9231-dddf2d6cd590"
-      (reference "MX54") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX54") (unit 1) (value "O") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/c88b1968-5c4a-4208-8483-4e349efbe05e"
-      (reference "MX55") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX55") (unit 1) (value "L") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/704c3312-0d41-44b2-b906-77d08a90e2f7"
-      (reference "MX56") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX56") (unit 1) (value ",") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/74f33714-b6b4-4abf-82ea-18147a481b64"
-      (reference "MX57") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX57") (unit 1) (value "2") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/f814aa5d-7ba6-49d1-83bd-ed7985f458da"
-      (reference "MX58") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX58") (unit 1) (value "W") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/c15bfcc1-a7ef-4c14-a320-ec47acffbef1"
-      (reference "MX59") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX59") (unit 1) (value "S") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/0597a476-be2e-470f-b1a2-9f908b613d24"
-      (reference "MX60") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX60") (unit 1) (value "Z") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/b03b0612-1b94-4fdd-a013-041c5230c742"
-      (reference "MX61") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX61") (unit 1) (value "Left Alt") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/57fc57fa-91fb-4dc2-93cb-3b5b3a674956"
-      (reference "MX62") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX62") (unit 1) (value "0") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/c2dae23c-1fe0-4bee-bd5b-9763ae873c32"
-      (reference "MX63") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX63") (unit 1) (value "P") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/664ee364-25f1-4654-8ce7-487d1bacef06"
-      (reference "MX64") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX64") (unit 1) (value ";") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/e8edf38c-fc6f-4ed4-9f43-2d82676e3d35"
-      (reference "MX65") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX65") (unit 1) (value ".") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/9404ac86-4a56-4bdf-81a9-6eb7c85604f9"
-      (reference "MX66") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX66") (unit 1) (value "3") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/aa15600b-b2c7-47e5-a06d-47a898b95d36"
-      (reference "MX67") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX67") (unit 1) (value "E") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/20300664-a95e-4c40-8a0c-d228fead24e4"
-      (reference "MX68") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX68") (unit 1) (value "D") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/efb2ce1b-723a-421d-852f-1b453988a612"
-      (reference "MX69") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX69") (unit 1) (value "X") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/7d1f5661-9176-432c-b8fb-aa22044dcc0c"
-      (reference "MX70") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX70") (unit 1) (value "Space") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/c7bb0a2d-3e84-4b88-914c-61d136d475ce"
-      (reference "MX71") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX71") (unit 1) (value "-") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/abcd6586-bb57-4b61-9f95-6a07a191c7b9"
-      (reference "MX72") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX72") (unit 1) (value "[") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/a662fd34-85b2-4bb9-9f1e-d7ab743b57bb"
-      (reference "MX73") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX73") (unit 1) (value "'") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/62e699af-6a62-4e9d-b91c-c5c4ef3da302"
-      (reference "MX74") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX74") (unit 1) (value "/") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/6d99e54a-a2fd-42c6-b5be-5ab227d3fb15"
-      (reference "MX75") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX75") (unit 1) (value "4") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/9d1ada78-bddd-40a6-973e-05f769313867"
-      (reference "MX76") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX76") (unit 1) (value "R") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/23163f17-ba19-4d72-8506-780a2f68dd4d"
-      (reference "MX77") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX77") (unit 1) (value "F") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/6ba91bde-e8d4-4de8-84b4-022474e9e2d9"
-      (reference "MX78") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX78") (unit 1) (value "C") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/09bf8b8a-12ba-4862-96d5-8e8dc489311b"
-      (reference "MX79") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX79") (unit 1) (value "Right Alt") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/3cc5abf7-e852-42c4-b16a-c879f74f8d62"
-      (reference "MX80") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX80") (unit 1) (value "=") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/30fe4075-f5f0-41bb-b16e-977d8f621005"
-      (reference "MX81") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX81") (unit 1) (value "]") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/de628d1b-31d9-4cad-b8cc-a9c880f19998"
-      (reference "MX82") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX82") (unit 1) (value "\\") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/7c4f08ab-79ce-4e57-9eb3-b1517e7246e4"
-      (reference "MX83") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX83") (unit 1) (value "Right Shift") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/6116905a-265f-4ffb-b273-114151795713"
-      (reference "MX84") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX84") (unit 1) (value "5") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/df59bc34-56d3-4453-be4b-f7c10ca7084a"
-      (reference "MX85") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX85") (unit 1) (value "T") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/7f54ca17-3ba2-4def-a0be-cfbed9a46bb7"
-      (reference "MX86") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX86") (unit 1) (value "G") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/9b74b657-9f0d-4e2f-b892-5109df5be019"
-      (reference "MX87") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX87") (unit 1) (value "V") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/b88cdfd4-a7d2-4c73-9577-2f95c46afd54"
-      (reference "MX88") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX88") (unit 1) (value "Function") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/00aa03c4-f46b-4e96-8458-9c99ff3a93bb"
-      (reference "MX89") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX89") (unit 1) (value "Backspace") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/c314bef2-a74e-4787-9ae5-a0ac96488d74"
-      (reference "MX90") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX90") (unit 1) (value "Enter") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/0f0ae04c-72b0-40c2-ac41-9dbd5de15a7c"
-      (reference "MX91") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX91") (unit 1) (value "Insert") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/4c91c153-1277-4888-9ef0-93fe1c926459"
-      (reference "MX92") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX92") (unit 1) (value "Delete") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/3b113c05-10f6-4084-a9c9-4e627baa03a4"
-      (reference "MX93") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX93") (unit 1) (value "6") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/e0ab6836-424a-4e5a-ba33-c91d661202c9"
-      (reference "MX94") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX94") (unit 1) (value "Y") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/3dffd4e1-1b5b-419c-b3b6-9a39c0258574"
-      (reference "MX95") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX95") (unit 1) (value "H") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/e44c53c6-5494-4e0e-a7c0-35ba153e2549"
-      (reference "MX96") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX96") (unit 1) (value "B") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/9e6f161c-b2cd-4e48-b0df-e494fee11c0b"
-      (reference "MX97") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX97") (unit 1) (value "Menu") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/2b963f35-ebcd-4517-ae6b-2300fd2e5cf9"
-      (reference "MX98") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX98") (unit 1) (value "Left") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/c720e277-0eb1-42c9-9f05-833cc4f0c832"
-      (reference "MX99") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX99") (unit 1) (value "Up") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/756af2b3-00a9-4518-b939-64f9fca4ad14"
-      (reference "MX100") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX100") (unit 1) (value "Home") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/e9db8120-ed56-44da-82cd-56402300f457"
-      (reference "MX101") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX101") (unit 1) (value "End") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/f63f8023-2d60-4816-9964-da45b2a3a088"
-      (reference "MX102") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX102") (unit 1) (value "7") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/9cf34aa5-521a-4596-baad-92139288c3b5"
-      (reference "MX103") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX103") (unit 1) (value "U") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/b2bc3412-92df-4f52-a93a-109308476d97"
-      (reference "MX104") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX104") (unit 1) (value "J") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/cea48715-a23b-424f-b738-eb722664ac78"
-      (reference "MX105") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX105") (unit 1) (value "N") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/4c981b80-7974-427e-9eab-132011c8cf17"
-      (reference "MX106") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX106") (unit 1) (value "Right Control") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/1a1d5f58-edd9-4542-a68b-7f7292a8e5eb"
-      (reference "MX107") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX107") (unit 1) (value "Right") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/771e2278-afb8-4c49-8e50-5fc0db94ecc1"
-      (reference "MX108") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX108") (unit 1) (value "Down") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/669c6be7-e3b2-4f64-9e19-b8e06b757c17"
-      (reference "MX109") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX109") (unit 1) (value "Page Up") (footprint "")
     )
     (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/cb18ea8e-01cd-49a9-9379-a6409e686b19"
-      (reference "MX110") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX110") (unit 1) (value "Page Down") (footprint "")
+    )
+    (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/369a8b53-f853-4d3c-a8bd-02c06310b6b0"
+      (reference "MX?") (unit 1) (value "Enter") (footprint "")
+    )
+    (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/496e3f22-0934-4f33-822e-f2a72f7933d1"
+      (reference "MX?") (unit 1) (value "Left Shift") (footprint "")
+    )
+    (path "/da496a6d-9c73-4726-8a69-2d6a4df38c58/bbf58673-48b6-4d84-bcea-e94e062df33e"
+      (reference "MX?") (unit 1) (value "\\") (footprint "")
     )
     (path "/480dc63e-e851-417b-8876-7a7fddaae6cf"
       (reference "R1") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
