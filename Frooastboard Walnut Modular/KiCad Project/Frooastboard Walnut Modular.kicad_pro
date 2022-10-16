@@ -476,7 +476,9 @@
           "SW5",
           "SW7",
           "SW8",
-          "SW9"
+          "SW9",
+          "SWCLK",
+          "SWDIO"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
