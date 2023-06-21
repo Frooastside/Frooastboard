@@ -7825,6 +7825,14 @@
     )
   )
 
+  (netclass_flag "" (length 2.54) (shape round) (at 369.57 121.92 90) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 5a3ea576-9d1c-4048-98ec-295ead547c40)
+    (property "Netclass" "Power" (at 367.03 121.2215 90)
+      (effects (font (size 1.27 1.27) italic) (justify left))
+    )
+  )
+
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 344.17 215.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0031f305-9128-4198-a544-878798749239)

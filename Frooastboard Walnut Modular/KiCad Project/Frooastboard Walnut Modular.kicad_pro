@@ -405,7 +405,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "error",
@@ -437,40 +437,6 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.254,
-        "via_diameter": 0.8,
-        "via_drill": 0.4,
-        "wire_width": 6
-      },
-      {
-        "bus_width": 12,
-        "clearance": 0.127,
-        "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "Data",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2032,
-        "via_diameter": 0.42,
-        "via_drill": 0.25,
-        "wire_width": 6
-      },
-      {
-        "bus_width": 12,
-        "clearance": 0.127,
-        "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "LED",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2032,
         "via_diameter": 0.42,
         "via_drill": 0.25,
@@ -487,10 +453,10 @@
         "microvia_drill": 0.1,
         "name": "Power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgb(255, 23, 78)",
         "track_width": 0.381,
         "via_diameter": 0.8,
-        "via_drill": 0.6,
+        "via_drill": 0.5,
         "wire_width": 6
       }
     ],
@@ -498,394 +464,390 @@
       "version": 3
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "Net-(C38-Pad1)": "Power",
+      "Net-(C39-Pad1)": "Power",
+      "Net-(C40-Pad1)": "Power"
+    },
     "netclass_patterns": [
       {
-        "netclass": "Data",
-        "pattern": "BATTERY_VOLTAGE"
-      },
-      {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "CS1"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "CS10"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "CS11"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "CS12"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "CS13"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "CS14"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "CS15"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "CS16"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "CS2"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "CS3"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "CS4"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "CS5"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "CS6"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "CS7"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "CS8"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "CS9"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "D+"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "D-"
       },
       {
-        "netclass": "Data",
-        "pattern": "NRF_MISO"
-      },
-      {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "NRF_MOSI"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "NRF_RDYN"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "NRF_REQN"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "NRF_SCK"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J2-Pad1)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J2-Pad10)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J2-Pad11)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J2-Pad12)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J2-Pad13)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J2-Pad14)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J2-Pad15)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J2-Pad16)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J2-Pad2)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J2-Pad3)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J2-Pad4)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J2-Pad5)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J2-Pad6)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J2-Pad7)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J2-Pad8)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J2-Pad9)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J3-Pad1)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J3-Pad2)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J3-Pad3)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J3-Pad4)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J3-Pad5)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J3-Pad6)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J4-Pad1)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J4-Pad2)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J4-Pad3)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J4-Pad4)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J4-Pad5)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J4-Pad6)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J5-Pad1)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J5-Pad10)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J5-Pad2)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J5-Pad3)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J5-Pad4)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J5-Pad5)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J5-Pad6)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J5-Pad7)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J5-Pad8)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J5-Pad9)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J6-Pad1)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J6-Pad10)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J6-Pad11)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J6-Pad2)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J6-Pad3)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J6-Pad4)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J6-Pad5)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J6-Pad6)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J6-Pad7)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J6-Pad8)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "Net-(J6-Pad9)"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "QSPI_CLK"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "QSPI_CS"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "QSPI_SD0"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "QSPI_SD1"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "QSPI_SD2"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "QSPI_SD3"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "RP_D+"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "RP_D-"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "RP_RESET"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "SCL"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "SDA"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "SW1"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "SW10"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "SW11"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "SW12"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "SW2"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "SW3"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "SW4"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "SW5"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "SW7"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "SW8"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "SW9"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "SWCLK"
       },
       {
-        "netclass": "Data",
+        "netclass": "Default",
         "pattern": "SWDIO"
       },
       {

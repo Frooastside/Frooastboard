@@ -19183,6 +19183,14 @@
     )
   )
 
+  (netclass_flag "" (length 2.54) (shape round) (at 298.45 149.86 90) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid feadb9cb-cfcf-4479-b88a-9b1a2149f7e0)
+    (property "Netclass" "Power" (at 295.91 149.1615 90)
+      (effects (font (size 1.27 1.27) italic) (justify left))
+    )
+  )
+
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 163.83 187.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 00aa03c4-f46b-4e96-8458-9c99ff3a93bb)
