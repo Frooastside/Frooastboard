@@ -1,0 +1,41 @@
+{
+    "layout": {
+        "hspace": "2mm",
+        "vspace": "2mm",
+        "hbackbone": "5mm",
+        "rows": "2",
+        "cols": "2",
+        "vbonecut": "False",
+        "hbonecut": "False"
+    },
+    "source": {
+        "stack": "4layer"
+    },
+    "tabs": {
+        "type": "fixed",
+        "vwidth": "8mm",
+        "hcount": "0"
+    },
+    "cuts": {
+        "type": "vcuts",
+        "offset": "-0.2mm",
+        "clearance": "0.8mm",
+        "layer": "User.4"
+    },
+    "framing": {
+        "type": "railstb"
+    },
+    "fiducials": {
+        "type": "4fid",
+        "hoffset": "2.5mm",
+        "voffset": "2.5mm",
+        "opening": "2mm",
+        "paste": "True"
+    },
+    "text": {
+        "type": "simple",
+        "voffset": "-2.5mm",
+        "text": "JLCJLCJLCJLC",
+        "anchor": "mb"
+    }
+}
