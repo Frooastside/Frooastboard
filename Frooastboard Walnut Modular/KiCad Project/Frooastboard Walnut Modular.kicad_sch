@@ -65,23 +65,6 @@
     )
   )
 
-  (sheet (at 100.33 20.32) (size 24.13 20.32) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid eba7bed6-3b4a-4b7a-b4a2-784017f24fe8)
-    (property "Sheetname" "MM2040" (at 100.33 19.6084 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "MM2040.kicad_sch" (at 100.33 41.2246 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "Frooastboard Walnut Modular"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "5"))
-      )
-    )
-  )
-
   (sheet_instances
     (path "/" (page "1"))
   )
