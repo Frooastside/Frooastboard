@@ -3151,6 +3151,9 @@
     (stroke (width 0.15) (type default)) (layer "User.1") (tstamp 8a1bea1e-4198-400e-b7eb-ee2f1eedeeeb))
   (gr_line (start 39.116 69.596) (end 39.116 68.5038)
     (stroke (width 0.15) (type default)) (layer "User.1") (tstamp 9f9b327a-a2f0-4dbd-b1e0-9ed0d87c94ad))
+  (gr_text "JLCJLCJLCJLC" (at 44.3484 50.292) (layer "F.SilkS") (tstamp ea6316e0-f616-42c3-a29f-94c9172f59f8)
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify left bottom))
+  )
 
   (segment (start 46.4058 61.976) (end 46.4058 61.5188) (width 0.381) (layer "F.Cu") (net 1) (tstamp 03f393f7-1d12-4dde-96c1-d3b039309315))
   (segment (start 67.867 62.9176) (end 69.3166 61.468) (width 0.381) (layer "F.Cu") (net 1) (tstamp 053b30ac-03aa-4199-a414-6644e68ca2ed))

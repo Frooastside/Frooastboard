@@ -16,12 +16,6 @@
         "vwidth": "8mm",
         "hcount": "0"
     },
-    "cuts": {
-        "type": "vcuts",
-        "offset": "-0.2mm",
-        "clearance": "0.8mm",
-        "layer": "User.4"
-    },
     "framing": {
         "type": "railstb"
     },
