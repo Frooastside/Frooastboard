@@ -3101,6 +3101,9 @@
   (junction (at 223.52 72.39) (diameter 0) (color 0 0 0 0)
     (uuid b6facb76-e91f-45bb-960f-93f6342acece)
   )
+  (junction (at 58.42 222.25) (diameter 0) (color 0 0 0 0)
+    (uuid b720ee16-5f2a-4cfc-8469-1a029e6e707e)
+  )
   (junction (at 172.72 195.58) (diameter 0) (color 0 0 0 0)
     (uuid b77b6e79-ca8e-4483-9b1b-de73247e9a5f)
   )
@@ -3181,6 +3184,9 @@
   )
   (junction (at 256.54 40.64) (diameter 0) (color 0 0 0 0)
     (uuid c00fd23d-7c43-490e-be5c-2e3085c529f6)
+  )
+  (junction (at 63.5 217.17) (diameter 0) (color 0 0 0 0)
+    (uuid c0392e48-76fa-403d-acc7-c71f0c11470c)
   )
   (junction (at 63.5 54.61) (diameter 0) (color 0 0 0 0)
     (uuid c0ab8dc1-94b7-4cc2-9117-02ebd8da1fa8)
@@ -12595,6 +12601,32 @@
     )
   )
 
+  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 59.69 218.44 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 93816a92-b450-4272-8a78-699230534a97)
+    (property "Reference" "MX22" (at 60.5756 212.09 0)
+      (effects (font (size 1.524 1.524)))
+    )
+    (property "Value" "Caps Lock" (at 60.5756 213.36 0)
+      (effects (font (size 0.508 0.508)))
+    )
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 43.815 219.075 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Datasheet" "" (at 43.815 219.075 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (pin "1" (uuid c6495da9-2bb9-4b3b-991f-eda385034a36))
+    (pin "2" (uuid 6d9991ab-c9e0-47d5-9a5c-ddb469ff846a))
+    (instances
+      (project "Frooastboard Walnut Modular"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/da496a6d-9c73-4726-8a69-2d6a4df38c58"
+          (reference "MX22") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 116.84 185.42 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9404ac86-4a56-4bdf-81a9-6eb7c85604f9)
@@ -13411,8 +13443,8 @@
     (property "Datasheet" "" (at 43.815 219.075 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid c0b2fc88-3bac-4592-b4c0-a1e0fecfcb7a))
-    (pin "2" (uuid ed1055e6-7069-4338-9437-2f2422dd76c0))
+    (pin "1" (uuid 16c22550-d766-403a-805f-5ccf1c07f1ca))
+    (pin "2" (uuid dc80fd92-0900-4817-b558-0e45aa4d0efe))
     (instances
       (project "Frooastboard Walnut Modular"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/da496a6d-9c73-4726-8a69-2d6a4df38c58"
