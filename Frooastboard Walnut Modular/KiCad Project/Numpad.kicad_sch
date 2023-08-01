@@ -7391,7 +7391,7 @@
     (property "Value" "Num 0" (at 125.3456 222.25 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Only:MXOnly-2U-NoLED" (at 108.585 227.965 0)
+    (property "Footprint" "MX_Only:MXOnly-2U-ReversedStabilizers-NoLED" (at 108.585 227.965 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 108.585 227.965 0)

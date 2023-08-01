@@ -9187,12 +9187,12 @@
     (property "Datasheet" "" (at 336.55 40.005 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4d2b3508-f8ac-4c25-bc0c-c1da8e9d7a15))
-    (pin "2" (uuid 3c8a9422-5cdb-4cf2-8110-d700cab53fc4))
-    (pin "3" (uuid 34bd8efa-c3ff-4b5f-94ca-9ae27101a2bc))
-    (pin "4" (uuid 842ed5ec-0557-4b2e-a00b-03d52e0edc37))
-    (pin "5" (uuid 4b6e7e14-aa6b-4583-8ddf-42cde164667b))
-    (pin "6" (uuid 606fd13f-202d-4cf9-9e68-1d00975d3bc3))
+    (pin "1" (uuid 99c1e0e4-84ca-4881-a9dc-17b8e120cf90))
+    (pin "2" (uuid 0d4fcfc1-f7de-444f-8ebe-68f6476363a3))
+    (pin "3" (uuid 7da5e67b-283a-4f3a-9be4-39eec074f5a6))
+    (pin "4" (uuid 6211caf3-dbb5-4337-a6ca-faa110028d73))
+    (pin "5" (uuid 02d4b259-d419-44b6-b9ae-3d65e9aa4949))
+    (pin "6" (uuid 43b228ae-a8ab-40b3-96f9-0533e3cd6856))
     (instances
       (project "Frooastboard Walnut Modular"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/26642831-2675-418c-b9f8-1fa8a8351387"
@@ -9295,12 +9295,12 @@
     (property "Datasheet" "" (at 290.83 57.785 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 50c658d0-b308-4985-8d5c-3de12bb72cf2))
-    (pin "2" (uuid 984b9636-27b0-48e9-8bf8-6996c24d7be1))
-    (pin "3" (uuid f37f65bb-1653-4e99-9a9d-71ea3b6ee120))
-    (pin "4" (uuid bc6e2719-3178-49f3-a533-764ce4884f09))
-    (pin "5" (uuid 465ef302-ea03-4af9-b4eb-debdd34db36a))
-    (pin "6" (uuid 51c8ffba-6d81-4a37-be41-9cec7c747e1a))
+    (pin "1" (uuid d282dd45-467f-4032-a5ce-9371eaa2b256))
+    (pin "2" (uuid 6984dce4-9ca6-4258-b281-ca67b1c4541a))
+    (pin "3" (uuid b214224a-ad5c-4d66-8914-97db68cc718f))
+    (pin "4" (uuid 1bf0bfe3-d78e-4f58-829f-fbf41d8faca3))
+    (pin "5" (uuid b0f86259-ac4c-49b8-b658-b8dfb9b7dbce))
+    (pin "6" (uuid 42c88819-f269-45d2-9ac8-34249bfb591b))
     (instances
       (project "Frooastboard Walnut Modular"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/26642831-2675-418c-b9f8-1fa8a8351387"
