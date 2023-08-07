@@ -856,15 +856,39 @@
       },
       {
         "netclass": "Power",
-        "pattern": "+3V3"
-      },
-      {
-        "netclass": "Power",
         "pattern": "+5V"
       },
       {
         "netclass": "Power",
+        "pattern": "+3.3V"
+      },
+      {
+        "netclass": "Power",
         "pattern": "GND"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/Main/+3.3V"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/Main/+5V"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/Main/GND"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/Numpad/+3.3V"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/Numpad/+5V"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/Numpad/GND"
       }
     ]
   },
