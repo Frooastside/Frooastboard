@@ -10154,10 +10154,10 @@
   (symbol (lib_id "Frooastboard Symbols:RGB_LED_6_Pin") (at 154.94 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2028f75e-c482-4b8a-832b-cccd2512375e)
-    (property "Reference" "D38C" (at 165.1 156.845 0)
+    (property "Reference" "D38_3" (at 163.83 156.845 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "RGB_LED_6_Pin" (at 165.1 159.385 0)
+    (property "Value" "RGB_LED_6_Pin" (at 163.83 159.385 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Frooastboard Footprints:Everlight 99-235" (at 181.61 159.385 0)
@@ -10175,7 +10175,7 @@
     (instances
       (project "Frooastboard Walnut Modular"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/da496a6d-9c73-4726-8a69-2d6a4df38c58"
-          (reference "D38C") (unit 1)
+          (reference "D38_3") (unit 1)
         )
       )
     )
@@ -10382,7 +10382,7 @@
   (symbol (lib_id "Frooastboard Symbols:RGB_LED_6_Pin") (at 132.08 95.25 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2b3fd855-0af7-4836-9658-84e3a371dd41)
-    (property "Reference" "D37A" (at 140.97 95.8849 0)
+    (property "Reference" "D37_1" (at 140.97 95.8849 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "RGB_LED_6_Pin" (at 140.97 98.425 0)
@@ -10403,7 +10403,7 @@
     (instances
       (project "Frooastboard Walnut Modular"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/da496a6d-9c73-4726-8a69-2d6a4df38c58"
-          (reference "D37A") (unit 1)
+          (reference "D37_1") (unit 1)
         )
       )
     )
@@ -10528,10 +10528,10 @@
   (symbol (lib_id "Frooastboard Symbols:RGB_LED_6_Pin") (at 154.94 95.25 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2d630280-4f5f-48ad-a069-5e84b06b40fe)
-    (property "Reference" "D38A" (at 165.1 95.885 0)
+    (property "Reference" "D38_1" (at 163.83 95.885 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "RGB_LED_6_Pin" (at 165.1 98.425 0)
+    (property "Value" "RGB_LED_6_Pin" (at 163.83 98.425 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Frooastboard Footprints:Everlight 99-235" (at 181.61 98.425 0)
@@ -10549,7 +10549,7 @@
     (instances
       (project "Frooastboard Walnut Modular"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/da496a6d-9c73-4726-8a69-2d6a4df38c58"
-          (reference "D38A") (unit 1)
+          (reference "D38_1") (unit 1)
         )
       )
     )
@@ -10762,10 +10762,10 @@
   (symbol (lib_id "Frooastboard Symbols:RGB_LED_6_Pin") (at 63.5 95.25 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 38a240d7-07eb-4e4e-b27e-80e4bb6442b7)
-    (property "Reference" "D34A" (at 73.66 95.885 0)
+    (property "Reference" "D34_1" (at 72.39 95.885 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "RGB_LED_6_Pin" (at 73.66 98.425 0)
+    (property "Value" "RGB_LED_6_Pin" (at 72.39 98.425 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Frooastboard Footprints:Everlight 99-235" (at 90.17 98.425 0)
@@ -10783,7 +10783,7 @@
     (instances
       (project "Frooastboard Walnut Modular"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/da496a6d-9c73-4726-8a69-2d6a4df38c58"
-          (reference "D34A") (unit 1)
+          (reference "D34_1") (unit 1)
         )
       )
     )
@@ -11076,7 +11076,7 @@
   (symbol (lib_id "Frooastboard Symbols:RGB_LED_6_Pin") (at 132.08 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 425a8649-af82-4a2f-b1ad-eb1d9a0ae4ee)
-    (property "Reference" "D37B" (at 140.97 126.3649 0)
+    (property "Reference" "D37_2" (at 140.97 126.3649 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "RGB_LED_6_Pin" (at 140.97 128.905 0)
@@ -11097,7 +11097,7 @@
     (instances
       (project "Frooastboard Walnut Modular"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/da496a6d-9c73-4726-8a69-2d6a4df38c58"
-          (reference "D37B") (unit 1)
+          (reference "D37_2") (unit 1)
         )
       )
     )
@@ -11422,7 +11422,7 @@
     (property "Value" "SolderJumper_2_Bridged" (at 55.88 104.14 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 40.64 105.41 0)
+    (property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" (at 40.64 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 40.64 105.41 0)
@@ -11442,10 +11442,10 @@
   (symbol (lib_id "Frooastboard Symbols:RGB_LED_6_Pin") (at 86.36 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4effe91c-3a37-49e3-9ef1-c4871fcc6561)
-    (property "Reference" "D35B" (at 96.52 126.365 0)
+    (property "Reference" "D35_2" (at 95.25 126.365 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "RGB_LED_6_Pin" (at 96.52 128.905 0)
+    (property "Value" "RGB_LED_6_Pin" (at 95.25 128.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Frooastboard Footprints:Everlight 99-235" (at 113.03 128.905 0)
@@ -11463,7 +11463,7 @@
     (instances
       (project "Frooastboard Walnut Modular"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/da496a6d-9c73-4726-8a69-2d6a4df38c58"
-          (reference "D35B") (unit 1)
+          (reference "D35_2") (unit 1)
         )
       )
     )
@@ -11560,10 +11560,10 @@
   (symbol (lib_id "Frooastboard Symbols:RGB_LED_6_Pin") (at 63.5 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 54736126-553a-47ca-9306-9c16172bbd19)
-    (property "Reference" "D34C" (at 73.66 156.845 0)
+    (property "Reference" "D34_3" (at 72.39 156.845 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "RGB_LED_6_Pin" (at 73.66 159.385 0)
+    (property "Value" "RGB_LED_6_Pin" (at 72.39 159.385 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Frooastboard Footprints:Everlight 99-235" (at 90.17 159.385 0)
@@ -11581,7 +11581,7 @@
     (instances
       (project "Frooastboard Walnut Modular"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/da496a6d-9c73-4726-8a69-2d6a4df38c58"
-          (reference "D34C") (unit 1)
+          (reference "D34_3") (unit 1)
         )
       )
     )
@@ -12074,7 +12074,7 @@
     (property "Value" "SolderJumper_2_Bridged" (at 55.88 109.22 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 40.64 110.49 0)
+    (property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" (at 40.64 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 40.64 110.49 0)
@@ -12094,10 +12094,10 @@
   (symbol (lib_id "Frooastboard Symbols:RGB_LED_6_Pin") (at 154.94 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 68a853b0-b290-458b-855b-f7264a02a4d6)
-    (property "Reference" "D38B" (at 165.1 126.365 0)
+    (property "Reference" "D38_2" (at 163.83 126.365 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "RGB_LED_6_Pin" (at 165.1 128.905 0)
+    (property "Value" "RGB_LED_6_Pin" (at 163.83 128.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Frooastboard Footprints:Everlight 99-235" (at 181.61 128.905 0)
@@ -12115,7 +12115,7 @@
     (instances
       (project "Frooastboard Walnut Modular"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/da496a6d-9c73-4726-8a69-2d6a4df38c58"
-          (reference "D38B") (unit 1)
+          (reference "D38_2") (unit 1)
         )
       )
     )
@@ -12216,7 +12216,7 @@
   (symbol (lib_id "Frooastboard Symbols:RGB_LED_6_Pin") (at 132.08 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6b0b86f2-f5d3-43a4-927a-b1a5f1b29e8c)
-    (property "Reference" "D37C" (at 140.97 156.8449 0)
+    (property "Reference" "D37_3" (at 140.97 156.8449 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "RGB_LED_6_Pin" (at 140.97 159.385 0)
@@ -12237,7 +12237,7 @@
     (instances
       (project "Frooastboard Walnut Modular"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/da496a6d-9c73-4726-8a69-2d6a4df38c58"
-          (reference "D37C") (unit 1)
+          (reference "D37_3") (unit 1)
         )
       )
     )
@@ -12361,10 +12361,10 @@
   (symbol (lib_id "Frooastboard Symbols:RGB_LED_6_Pin") (at 109.22 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6e257339-becf-405e-a3e1-9901480de0a3)
-    (property "Reference" "D36B" (at 119.38 126.365 0)
+    (property "Reference" "D36_2" (at 118.11 126.365 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "RGB_LED_6_Pin" (at 119.38 128.905 0)
+    (property "Value" "RGB_LED_6_Pin" (at 118.11 128.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Frooastboard Footprints:Everlight 99-235" (at 135.89 128.905 0)
@@ -12382,7 +12382,7 @@
     (instances
       (project "Frooastboard Walnut Modular"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/da496a6d-9c73-4726-8a69-2d6a4df38c58"
-          (reference "D36B") (unit 1)
+          (reference "D36_2") (unit 1)
         )
       )
     )
@@ -12671,7 +12671,7 @@
     (property "Value" "SolderJumper_2_Bridged" (at 55.88 106.68 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 40.64 107.95 0)
+    (property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" (at 40.64 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 40.64 107.95 0)
@@ -12951,10 +12951,10 @@
   (symbol (lib_id "Frooastboard Symbols:RGB_LED_6_Pin") (at 86.36 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7d32a5c2-44b0-44b8-8f73-9646f90f0e29)
-    (property "Reference" "D35C" (at 96.52 156.845 0)
+    (property "Reference" "D35_3" (at 95.25 156.845 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "RGB_LED_6_Pin" (at 96.52 159.385 0)
+    (property "Value" "RGB_LED_6_Pin" (at 95.25 159.385 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Frooastboard Footprints:Everlight 99-235" (at 113.03 159.385 0)
@@ -12972,7 +12972,7 @@
     (instances
       (project "Frooastboard Walnut Modular"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/da496a6d-9c73-4726-8a69-2d6a4df38c58"
-          (reference "D35C") (unit 1)
+          (reference "D35_3") (unit 1)
         )
       )
     )
@@ -13545,10 +13545,10 @@
   (symbol (lib_id "Frooastboard Symbols:RGB_LED_6_Pin") (at 109.22 95.25 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 916e4516-d0e6-44ff-903b-38394f04cc89)
-    (property "Reference" "D36A" (at 119.38 95.885 0)
+    (property "Reference" "D36_1" (at 118.11 95.885 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "RGB_LED_6_Pin" (at 119.38 98.425 0)
+    (property "Value" "RGB_LED_6_Pin" (at 118.11 98.425 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Frooastboard Footprints:Everlight 99-235" (at 135.89 98.425 0)
@@ -13566,7 +13566,7 @@
     (instances
       (project "Frooastboard Walnut Modular"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/da496a6d-9c73-4726-8a69-2d6a4df38c58"
-          (reference "D36A") (unit 1)
+          (reference "D36_1") (unit 1)
         )
       )
     )
@@ -13777,10 +13777,10 @@
   (symbol (lib_id "Frooastboard Symbols:RGB_LED_6_Pin") (at 86.36 95.25 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 95eda635-8eb9-4494-973b-da7b796d9fd5)
-    (property "Reference" "D35A" (at 96.52 95.885 0)
+    (property "Reference" "D35_1" (at 95.25 95.885 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "RGB_LED_6_Pin" (at 96.52 98.425 0)
+    (property "Value" "RGB_LED_6_Pin" (at 95.25 98.425 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Frooastboard Footprints:Everlight 99-235" (at 113.03 98.425 0)
@@ -13798,7 +13798,7 @@
     (instances
       (project "Frooastboard Walnut Modular"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/da496a6d-9c73-4726-8a69-2d6a4df38c58"
-          (reference "D35A") (unit 1)
+          (reference "D35_1") (unit 1)
         )
       )
     )
@@ -14683,7 +14683,7 @@
   (symbol (lib_id "Frooastboard Symbols:Frooastboard_MM2040") (at 90.17 229.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid aec034f1-244b-42ea-8d3a-b73b2187a46f)
-    (property "Reference" "M2" (at 83.82 229.87 0)
+    (property "Reference" "M1" (at 83.82 229.87 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Frooastboard_MM2040" (at 83.82 232.41 0)
@@ -14759,7 +14759,7 @@
     (instances
       (project "Frooastboard Walnut Modular"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/da496a6d-9c73-4726-8a69-2d6a4df38c58"
-          (reference "M2") (unit 1)
+          (reference "M1") (unit 1)
         )
       )
     )
@@ -15028,7 +15028,7 @@
   (symbol (lib_id "Frooastboard Symbols:RGB_LED_6_Pin") (at 177.8 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b8b280b4-3fb9-4638-9bc3-873879b1767c)
-    (property "Reference" "D39C" (at 187.96 157.48 0)
+    (property "Reference" "D39_3" (at 187.96 157.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "RGB_LED_6_Pin" (at 187.96 160.02 0)
@@ -15049,7 +15049,7 @@
     (instances
       (project "Frooastboard Walnut Modular"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/da496a6d-9c73-4726-8a69-2d6a4df38c58"
-          (reference "D39C") (unit 1)
+          (reference "D39_3") (unit 1)
         )
       )
     )
@@ -16254,7 +16254,7 @@
   (symbol (lib_id "Frooastboard Symbols:RGB_LED_6_Pin") (at 177.8 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e21e4f49-0d59-4c97-85c9-f448e06cd408)
-    (property "Reference" "D39B" (at 187.96 127 0)
+    (property "Reference" "D39_2" (at 187.96 127 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "RGB_LED_6_Pin" (at 187.96 129.54 0)
@@ -16275,7 +16275,7 @@
     (instances
       (project "Frooastboard Walnut Modular"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/da496a6d-9c73-4726-8a69-2d6a4df38c58"
-          (reference "D39B") (unit 1)
+          (reference "D39_2") (unit 1)
         )
       )
     )
@@ -16718,10 +16718,10 @@
   (symbol (lib_id "Frooastboard Symbols:RGB_LED_6_Pin") (at 177.8 95.25 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f815a223-d4f8-455a-a5c4-fbcd7615ead5)
-    (property "Reference" "D39A" (at 187.96 95.885 0)
+    (property "Reference" "D39_1" (at 186.69 95.885 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "RGB_LED_6_Pin" (at 187.96 98.425 0)
+    (property "Value" "RGB_LED_6_Pin" (at 186.69 98.425 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Frooastboard Footprints:Everlight 99-235" (at 204.47 98.425 0)
@@ -16739,7 +16739,7 @@
     (instances
       (project "Frooastboard Walnut Modular"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/da496a6d-9c73-4726-8a69-2d6a4df38c58"
-          (reference "D39A") (unit 1)
+          (reference "D39_1") (unit 1)
         )
       )
     )
@@ -16778,10 +16778,10 @@
   (symbol (lib_id "Frooastboard Symbols:RGB_LED_6_Pin") (at 109.22 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fa12e78c-8805-4489-aaff-5f248e82c2b4)
-    (property "Reference" "D36C" (at 119.38 156.845 0)
+    (property "Reference" "D36_3" (at 118.11 156.845 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "RGB_LED_6_Pin" (at 119.38 159.385 0)
+    (property "Value" "RGB_LED_6_Pin" (at 118.11 159.385 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Frooastboard Footprints:Everlight 99-235" (at 135.89 159.385 0)
@@ -16799,7 +16799,7 @@
     (instances
       (project "Frooastboard Walnut Modular"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/da496a6d-9c73-4726-8a69-2d6a4df38c58"
-          (reference "D36C") (unit 1)
+          (reference "D36_3") (unit 1)
         )
       )
     )
@@ -16860,10 +16860,10 @@
   (symbol (lib_id "Frooastboard Symbols:RGB_LED_6_Pin") (at 63.5 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fd8dc3a2-5dff-4256-a2af-3592befa58f9)
-    (property "Reference" "D34B" (at 73.66 126.365 0)
+    (property "Reference" "D34_2" (at 72.39 126.365 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "RGB_LED_6_Pin" (at 73.66 128.905 0)
+    (property "Value" "RGB_LED_6_Pin" (at 72.39 128.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Frooastboard Footprints:Everlight 99-235" (at 90.17 128.905 0)
@@ -16881,7 +16881,7 @@
     (instances
       (project "Frooastboard Walnut Modular"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/da496a6d-9c73-4726-8a69-2d6a4df38c58"
-          (reference "D34B") (unit 1)
+          (reference "D34_2") (unit 1)
         )
       )
     )
