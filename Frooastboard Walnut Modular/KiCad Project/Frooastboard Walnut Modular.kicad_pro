@@ -465,9 +465,9 @@
     },
     "net_colors": null,
     "netclass_assignments": {
-      "Net-(C201-Pad1)": "Power",
-      "Net-(C202-Pad1)": "Power",
-      "Net-(C203-Pad1)": "Power"
+      "Net-(C38-Pad1)": "Power",
+      "Net-(C39-Pad1)": "Power",
+      "Net-(C40-Pad1)": "Power"
     },
     "netclass_patterns": [
       {
