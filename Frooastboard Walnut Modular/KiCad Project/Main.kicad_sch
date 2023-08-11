@@ -10968,7 +10968,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 68.58 66.04 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board no) (dnp yes)
     (uuid 3ee3600b-b46d-4da6-8edc-68af3ca1ca35)
     (property "Reference" "D5" (at 64.77 60.96 0)
       (effects (font (size 1.27 1.27)))
