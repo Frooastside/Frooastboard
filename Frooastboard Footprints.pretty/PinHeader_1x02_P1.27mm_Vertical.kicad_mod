@@ -34,7 +34,9 @@
   (fp_line (start 1.05 1.905) (end -1.05 1.905)
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 3c26cbdc-9bbe-4bc5-946e-77a160f32c83))
   (pad "1" thru_hole rect (at 0 0) (size 1.825 1) (drill 0.65 (offset 0.5875 0)) (property pad_prop_castellated) (layers "*.Cu" "*.Mask") (tstamp d70fd5e7-87af-4399-8adf-e81de3a6e972))
+  (pad "1" thru_hole circle (at 1 0) (size 1 1) (drill 0.65) (layers "*.Cu" "*.Mask") (tstamp 8ecbe591-6a94-4d49-a5e7-59b435eea4e8))
   (pad "2" thru_hole roundrect (at 0 1.27) (size 1.825 1) (drill 0.65 (offset 0.5875 0)) (property pad_prop_castellated) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.1) (tstamp 8d72b72c-79fd-440d-ac14-0c1b5595febc))
+  (pad "2" thru_hole circle (at 1 1.27) (size 1 1) (drill 0.65) (layers "*.Cu" "*.Mask") (tstamp 8ecbe591-6a94-4d49-a5e7-59b435eea4e8))
   (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_1.27mm.3dshapes/PinHeader_1x02_P1.27mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
