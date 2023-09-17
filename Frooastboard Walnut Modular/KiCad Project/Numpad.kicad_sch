@@ -4596,7 +4596,7 @@
     (property "Reference" "MX32" (at 144.3956 220.98 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "Comma" (at 144.3956 222.25 0)
+    (property "Value" "Dot" (at 144.3956 222.25 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 127.635 227.965 0)

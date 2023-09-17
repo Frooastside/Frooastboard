@@ -9234,7 +9234,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 73a43058-fd4a-436d-9eca-47cd39cbd139)
   )
-  (label "ce_row11" (at 242.57 217.17 0) (fields_autoplaced)
+  (label "ce_col9" (at 242.57 217.17 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 771eb73f-c194-477e-a85a-6574e46c5dc0)
   )
@@ -9518,7 +9518,7 @@
     )
   )
 
-  (hierarchical_label "ce_row[0..11]" (shape input) (at 237.49 111.76 180) (fields_autoplaced)
+  (hierarchical_label "ce_row[0..9]" (shape input) (at 237.49 111.76 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 285dec01-87a7-47af-82a4-f3ff5014a774)
   )
