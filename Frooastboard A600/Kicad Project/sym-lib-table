@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Frooastboard Symbols")(type "KiCad")(uri "${KIPRJMOD}/../../Frooastboard Symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "AFA01-SXXFCX-00")(type "KiCad")(uri "${KIPRJMOD}/../../include/AFA01-SXXFCX-00/AFA01-SXXFCX-00.kicad_sym")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/../../include/random_keyboard_parts/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/../../include/Type_C/Type-C.lib")(options "")(descr ""))
+)
