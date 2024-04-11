@@ -17708,6 +17708,12 @@
 		(uuid "203bf309-5a90-4289-9ccf-ff69aba15ba1")
 	)
 	(junction
+		(at 171.45 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "217b840a-bd37-480a-8758-50c34da494c0")
+	)
+	(junction
 		(at 294.64 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -17828,6 +17834,12 @@
 		(uuid "39e81a61-1ed3-4f06-bf21-80e3ea78949b")
 	)
 	(junction
+		(at 127 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3d4d0463-fb35-4219-8cdd-4f3e6b056827")
+	)
+	(junction
 		(at 241.3 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -17880,6 +17892,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "463fedea-cde0-4704-9452-da5f4a08ada8")
+	)
+	(junction
+		(at 114.3 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "47146863-72fe-48ce-b2c6-124a1f26e67a")
 	)
 	(junction
 		(at 256.54 59.69)
@@ -17982,6 +18000,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "610aeed5-e9e7-4202-80d3-7b638e1d4884")
+	)
+	(junction
+		(at 171.45 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "61b6499f-76bb-4bf9-a08f-1a51b912b3b7")
 	)
 	(junction
 		(at 345.44 71.12)
@@ -18416,6 +18440,12 @@
 		(uuid "c32c73ed-39d1-4440-93bc-5e7e6bf4bef3")
 	)
 	(junction
+		(at 139.7 102.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c447bfb4-e596-475e-95db-f4fb9d1c9141")
+	)
+	(junction
 		(at 260.35 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -18672,10 +18702,6 @@
 		(uuid "03cecdb9-8bd0-47ee-bcdc-120bb31ddb58")
 	)
 	(no_connect
-		(at 107.95 92.71)
-		(uuid "42055fc8-83f1-40aa-b5b4-3e1fe51840ce")
-	)
-	(no_connect
 		(at 223.52 241.3)
 		(uuid "435b5544-8ce5-4b48-9c18-b8b0afb7b104")
 	)
@@ -18824,6 +18850,15 @@
 			(type default)
 		)
 		(uuid "4fdf3753-6fba-4363-9bcc-ea1df2ed0623")
+	)
+	(bus_entry
+		(at 118.11 92.71)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5776a3fe-6f88-42a4-8a27-ec3511bb7aae")
 	)
 	(bus_entry
 		(at 120.65 62.23)
@@ -19015,15 +19050,6 @@
 		(uuid "e1976afc-089c-41a4-a73b-19a8970832cc")
 	)
 	(bus_entry
-		(at 118.11 90.17)
-		(size 2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f4719cbc-b0f3-40ab-823c-3f87f2da7f56")
-	)
-	(bus_entry
 		(at 118.11 72.39)
 		(size 2.54 -2.54)
 		(stroke
@@ -19210,6 +19236,16 @@
 			(type default)
 		)
 		(uuid "08b0ade8-e02e-4285-9ecb-b01d52fffa1a")
+	)
+	(wire
+		(pts
+			(xy 171.45 115.57) (xy 173.99 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "097933ec-2ae1-41bb-93b0-aea345903faa")
 	)
 	(wire
 		(pts
@@ -19500,6 +19536,16 @@
 			(type default)
 		)
 		(uuid "182d6eec-3b38-4172-89de-9985e714c2b1")
+	)
+	(wire
+		(pts
+			(xy 107.95 92.71) (xy 118.11 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "185b24bf-4005-4238-8878-5e279613e72a")
 	)
 	(wire
 		(pts
@@ -20013,16 +20059,6 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 90.17) (xy 118.11 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2a8aed7c-73f1-461f-8385-ff5917b9e5d1")
-	)
-	(wire
-		(pts
 			(xy 139.7 102.87) (xy 139.7 109.22)
 		)
 		(stroke
@@ -20220,6 +20256,16 @@
 			(type default)
 		)
 		(uuid "304e97f6-a1fd-4c02-8ae9-0201f70caf16")
+	)
+	(bus
+		(pts
+			(xy 120.65 85.09) (xy 120.65 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30d310f9-b072-46e4-a609-856fdfe429ca")
 	)
 	(wire
 		(pts
@@ -20791,6 +20837,16 @@
 		)
 		(uuid "445951ee-2111-44bf-9b8e-002895fe8231")
 	)
+	(wire
+		(pts
+			(xy 152.4 116.84) (xy 152.4 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44a9029b-7d52-4021-a0d7-5fc80f21055f")
+	)
 	(bus
 		(pts
 			(xy 234.95 66.04) (xy 234.95 68.58)
@@ -20900,6 +20956,16 @@
 			(type default)
 		)
 		(uuid "48ccc494-57bb-42d4-a6ff-0a216995279e")
+	)
+	(wire
+		(pts
+			(xy 171.45 110.49) (xy 171.45 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "498185bc-5502-4603-8117-1230cd0ac516")
 	)
 	(wire
 		(pts
@@ -21030,6 +21096,16 @@
 			(type default)
 		)
 		(uuid "4f0531d8-9954-42db-b6d8-84ee9b06455a")
+	)
+	(wire
+		(pts
+			(xy 139.7 102.87) (xy 173.99 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4feb8200-5ec3-4782-a44b-37a165d9026b")
 	)
 	(wire
 		(pts
@@ -21600,6 +21676,16 @@
 			(type default)
 		)
 		(uuid "687ccb93-26a6-4e89-87e4-ee18169536a8")
+	)
+	(wire
+		(pts
+			(xy 171.45 110.49) (xy 171.45 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68b4b9d3-6334-43c2-b386-078b6d5047ee")
 	)
 	(wire
 		(pts
@@ -22553,6 +22639,16 @@
 	)
 	(wire
 		(pts
+			(xy 171.45 115.57) (xy 171.45 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d9b4b89-b59c-4914-9694-cf23408d7c33")
+	)
+	(wire
+		(pts
 			(xy 279.4 50.8) (xy 298.45 50.8)
 		)
 		(stroke
@@ -22690,6 +22786,16 @@
 			(type default)
 		)
 		(uuid "96160625-8aa1-4065-ae49-bba47023f3a4")
+	)
+	(wire
+		(pts
+			(xy 171.45 97.79) (xy 173.99 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96364db3-b307-45e0-ad1e-fd3df2b3e079")
 	)
 	(wire
 		(pts
@@ -23451,6 +23557,16 @@
 		)
 		(uuid "ba6a2432-8221-4201-8a6f-28d10542bfae")
 	)
+	(wire
+		(pts
+			(xy 114.3 107.95) (xy 173.99 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bacfcebd-c43d-4721-846d-e25be1d10a5b")
+	)
 	(bus
 		(pts
 			(xy 234.95 86.36) (xy 234.95 101.6)
@@ -23460,6 +23576,16 @@
 			(type default)
 		)
 		(uuid "bbe1c29b-26ab-4b04-9543-dd8aecea7447")
+	)
+	(wire
+		(pts
+			(xy 152.4 100.33) (xy 152.4 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc6e77c1-56a8-456c-91af-ff8dbe0071e2")
 	)
 	(wire
 		(pts
@@ -23841,16 +23967,6 @@
 		)
 		(uuid "cc308f81-46a8-4742-b758-191f4aa07cb5")
 	)
-	(bus
-		(pts
-			(xy 120.65 85.09) (xy 120.65 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cc44103e-1685-4d5e-860f-f019b79b46f2")
-	)
 	(wire
 		(pts
 			(xy 241.3 85.09) (xy 241.3 86.36)
@@ -23940,6 +24056,16 @@
 			(type default)
 		)
 		(uuid "d06d25fe-26ba-4370-90d7-826bc961827d")
+	)
+	(wire
+		(pts
+			(xy 127 105.41) (xy 173.99 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d12dce77-9865-467d-8412-5e2827f21dc9")
 	)
 	(bus
 		(pts
@@ -24663,6 +24789,16 @@
 	)
 	(wire
 		(pts
+			(xy 107.95 90.17) (xy 109.22 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f305b6c5-756e-4be9-933f-ec9acfb10c3c")
+	)
+	(wire
+		(pts
 			(xy 312.42 59.69) (xy 313.69 59.69)
 		)
 		(stroke
@@ -24680,6 +24816,16 @@
 			(type default)
 		)
 		(uuid "f3ba4f1f-6af4-4223-95de-612177a469da")
+	)
+	(wire
+		(pts
+			(xy 173.99 110.49) (xy 171.45 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3e94c97-25b8-446f-a942-1990fd7b6e93")
 	)
 	(wire
 		(pts
@@ -24850,6 +24996,16 @@
 			(type default)
 		)
 		(uuid "fb127db2-d80d-4bc0-aa98-af59fc71457a")
+	)
+	(wire
+		(pts
+			(xy 152.4 124.46) (xy 152.4 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb5264ec-a38b-46d8-af3a-e8fcc7dae0d5")
 	)
 	(bus
 		(pts
@@ -25345,7 +25501,7 @@
 		(uuid "a8c7c833-e276-4ded-9537-b8c8cdfed437")
 	)
 	(label "row0"
-		(at 107.95 90.17 0)
+		(at 107.95 92.71 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -25648,6 +25804,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CapsLock"
+		(shape input)
+		(at 152.4 100.33 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6257169c-ced9-4630-8155-7abac70511b2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 152.4 88.4549 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -26026,6 +26204,28 @@
 			)
 		)
 	)
+	(global_label "CapsLock"
+		(shape input)
+		(at 109.22 90.17 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bb39767e-3ef6-4443-abff-0215f8ecc59f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 121.0951 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "QSPI_CS"
 		(shape output)
 		(at 64.77 106.68 180)
@@ -26337,6 +26537,29 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
+		(at 152.4 118.11 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "225ad6ce-16ab-485c-a1fa-a81a1865ae04")
+		(property "Netclass" "Power"
+			(at 149.86 117.4115 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
 		(at 254 250.19 90)
 		(fields_autoplaced yes)
 		(effects
@@ -26625,7 +26848,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 320.04 59.69 90)
 			(effects
 				(font
@@ -26662,6 +26885,72 @@
 			(project "Frooastboard A600"
 				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
 					(reference "MX53")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 152.4 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "04fda377-0403-4e3a-b0b4-5272622ed129")
+		(property "Reference" "#PWR040"
+			(at 152.4 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 152.4 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 152.4 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 152.4 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 152.4 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7bd7e463-40f3-4093-9dc8-757a4038b849")
+		)
+		(instances
+			(project "Frooastboard A600"
+				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -26980,7 +27269,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 281.94 77.47 90)
 			(effects
 				(font
@@ -27048,7 +27337,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.75U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.75U"
 			(at 328.93 115.57 90)
 			(effects
 				(font
@@ -27116,7 +27405,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 300.99 113.03 90)
 			(effects
 				(font
@@ -27492,7 +27781,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 281.94 59.69 90)
 			(effects
 				(font
@@ -27805,7 +28094,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 339.09 95.25 90)
 			(effects
 				(font
@@ -28198,7 +28487,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 377.19 77.47 90)
 			(effects
 				(font
@@ -28443,7 +28732,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 252.73 44.45 90)
 			(effects
 				(font
@@ -28970,6 +29259,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED")
+		(at 152.4 113.03 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2e39161d-c955-48de-9227-1241334bcb5d")
+		(property "Reference" "D53"
+			(at 155.448 112.014 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "ST_LED1"
+			(at 159.258 114.046 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_PLCC-2_3.4x3.0mm_KA"
+			(at 152.4 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 152.4 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 152.4 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3b2e0eaf-604b-4ef8-aeeb-36f1e8e6a609")
+		)
+		(pin "2"
+			(uuid "0afb68f9-f234-45bb-bc66-33897a2ae827")
+		)
+		(instances
+			(project "Frooastboard A600"
+				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
+					(reference "D53")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "SW_45°_2")
 		(lib_id "Frooastboard Symbols:SW_45°")
 		(at 243.84 132.08 0)
@@ -28995,7 +29351,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 243.84 132.08 90)
 			(effects
 				(font
@@ -29063,7 +29419,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 367.03 62.23 90)
 			(effects
 				(font
@@ -29440,7 +29796,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 358.14 132.08 90)
 			(effects
 				(font
@@ -29508,7 +29864,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.5U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.5U"
 			(at 243.84 59.69 90)
 			(effects
 				(font
@@ -29576,7 +29932,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 300.99 95.25 90)
 			(effects
 				(font
@@ -29732,7 +30088,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 320.04 41.91 90)
 			(effects
 				(font
@@ -30085,6 +30441,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 152.4 121.92 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3a96ec46-1ce3-426c-b14d-24c5eae4dd69")
+		(property "Reference" "R16"
+			(at 155.448 120.904 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 154.686 122.936 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 152.4 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 152.4 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 152.4 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a920312d-168a-4760-b0f6-a5087fb56491")
+		)
+		(pin "1"
+			(uuid "f9d20f45-fb36-4c0d-b64b-e6405cb1a42b")
+		)
+		(instances
+			(project "Frooastboard A600"
+				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
+					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "SW_45°_10")
 		(lib_id "Frooastboard Symbols:SW_45°")
 		(at 358.14 95.25 0)
@@ -30110,7 +30533,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 358.14 95.25 90)
 			(effects
 				(font
@@ -30508,7 +30931,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 309.88 62.23 90)
 			(effects
 				(font
@@ -30664,7 +31087,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 309.88 97.79 90)
 			(effects
 				(font
@@ -30732,7 +31155,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 309.88 44.45 90)
 			(effects
 				(font
@@ -30870,7 +31293,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 243.84 41.91 90)
 			(effects
 				(font
@@ -31269,7 +31692,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 262.89 113.03 90)
 			(effects
 				(font
@@ -31403,7 +31826,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 252.73 80.01 90)
 			(effects
 				(font
@@ -32090,7 +32513,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 290.83 80.01 90)
 			(effects
 				(font
@@ -32158,7 +32581,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 328.93 80.01 90)
 			(effects
 				(font
@@ -32226,7 +32649,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 358.14 59.69 90)
 			(effects
 				(font
@@ -32515,7 +32938,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 328.93 44.45 90)
 			(effects
 				(font
@@ -32647,7 +33070,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 339.09 77.47 90)
 			(effects
 				(font
@@ -32715,7 +33138,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 320.04 95.25 90)
 			(effects
 				(font
@@ -33028,7 +33451,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 320.04 77.47 90)
 			(effects
 				(font
@@ -34086,7 +34509,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 320.04 132.08 90)
 			(effects
 				(font
@@ -34154,7 +34577,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 377.19 113.03 90)
 			(effects
 				(font
@@ -34222,7 +34645,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 300.99 77.47 90)
 			(effects
 				(font
@@ -34378,7 +34801,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 347.98 62.23 90)
 			(effects
 				(font
@@ -34446,7 +34869,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 281.94 113.03 90)
 			(effects
 				(font
@@ -34602,7 +35025,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 252.73 62.23 90)
 			(effects
 				(font
@@ -34758,7 +35181,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 309.88 80.01 90)
 			(effects
 				(font
@@ -34983,7 +35406,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 377.19 95.25 90)
 			(effects
 				(font
@@ -35115,7 +35538,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 300.99 59.69 90)
 			(effects
 				(font
@@ -35359,7 +35782,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 290.83 115.57 90)
 			(effects
 				(font
@@ -35427,7 +35850,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.75U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.75U"
 			(at 243.84 113.03 90)
 			(effects
 				(font
@@ -36754,7 +37177,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 262.89 59.69 90)
 			(effects
 				(font
@@ -37480,7 +37903,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 262.89 132.08 90)
 			(effects
 				(font
@@ -37548,7 +37971,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 271.78 97.79 90)
 			(effects
 				(font
@@ -37616,7 +38039,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 281.94 41.91 90)
 			(effects
 				(font
@@ -37751,7 +38174,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 339.09 41.91 90)
 			(effects
 				(font
@@ -37819,7 +38242,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 271.78 44.45 90)
 			(effects
 				(font
@@ -38133,7 +38556,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 347.98 97.79 90)
 			(effects
 				(font
@@ -38275,7 +38698,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 328.93 97.79 90)
 			(effects
 				(font
@@ -38565,7 +38988,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 367.03 115.57 90)
 			(effects
 				(font
@@ -38721,7 +39144,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-8U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-8U"
 			(at 281.94 132.08 90)
 			(effects
 				(font
@@ -38877,7 +39300,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 347.98 44.45 90)
 			(effects
 				(font
@@ -39077,7 +39500,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 358.14 113.03 90)
 			(effects
 				(font
@@ -39387,7 +39810,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 262.89 95.25 90)
 			(effects
 				(font
@@ -39525,7 +39948,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 262.89 41.91 90)
 			(effects
 				(font
@@ -39857,7 +40280,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 309.88 115.57 90)
 			(effects
 				(font
@@ -39925,7 +40348,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 300.99 41.91 90)
 			(effects
 				(font
@@ -40335,7 +40758,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-ISO"
+		(property "Footprint" "MX_Solderable:MX-Solderable-ISO"
 			(at 347.98 80.01 90)
 			(effects
 				(font
@@ -40961,7 +41384,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 290.83 97.79 90)
 			(effects
 				(font
@@ -41117,7 +41540,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 328.93 62.23 90)
 			(effects
 				(font
@@ -41248,6 +41671,106 @@
 		)
 	)
 	(symbol
+		(lib_id "AFA01-SXXFCX-00:AFA01-S04FCC-00")
+		(at 181.61 106.68 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c6eb16bc-38f6-456a-9f71-3a22ca88468e")
+		(property "Reference" "FPC3"
+			(at 190.5 105.4099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "AFA01-S04FCC-00"
+			(at 190.5 107.9499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "AFA01-SXXFCX-00:FPC-SMD_4P-P1.00_AFA01-S04FCC-00"
+			(at 181.61 97.7138 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.szlcsc.com/product/details_253765.html"
+			(at 181.61 102.7938 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 181.61 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SuppliersPartNumber" "C262381"
+			(at 181.61 107.8738 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "uuid" "std:063cb82895d54dd9b14eebbc8e5be19d"
+			(at 181.61 107.8738 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c00037a5-cc42-4323-a74f-2df64971446c")
+		)
+		(pin "3"
+			(uuid "0cc79b50-b481-4e46-b7dd-7e8473fea165")
+		)
+		(pin "4"
+			(uuid "b292b3af-87d9-4a2a-9d55-7d21d86471a3")
+		)
+		(pin "5"
+			(uuid "b3046061-e14c-47f6-a44b-ffb8d4053696")
+		)
+		(pin "6"
+			(uuid "bdefca56-a74b-4eb0-8adb-1d862b592807")
+		)
+		(pin "1"
+			(uuid "ab768034-f24b-4f64-b18e-1b169b3d0987")
+		)
+		(instances
+			(project "Frooastboard A600"
+				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
+					(reference "FPC3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D_Small")
 		(at 298.45 46.99 90)
 		(unit 1)
@@ -41361,7 +41884,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 358.14 77.47 90)
 			(effects
 				(font
@@ -41877,7 +42400,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 252.73 115.57 90)
 			(effects
 				(font
@@ -41945,7 +42468,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 320.04 113.03 90)
 			(effects
 				(font
@@ -42146,7 +42669,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 262.89 77.47 90)
 			(effects
 				(font
@@ -42302,7 +42825,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 271.78 80.01 90)
 			(effects
 				(font
@@ -42592,7 +43115,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 386.08 62.23 90)
 			(effects
 				(font
@@ -42660,7 +43183,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 243.84 95.25 90)
 			(effects
 				(font
@@ -42729,7 +43252,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 377.19 132.08 90)
 			(effects
 				(font
@@ -43108,7 +43631,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 271.78 62.23 90)
 			(effects
 				(font
@@ -43420,7 +43943,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 290.83 62.23 90)
 			(effects
 				(font
@@ -43488,7 +44011,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 271.78 115.57 90)
 			(effects
 				(font
@@ -43702,7 +44225,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 252.73 97.79 90)
 			(effects
 				(font
@@ -43770,7 +44293,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 281.94 95.25 90)
 			(effects
 				(font
@@ -43904,7 +44427,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-2U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-2U"
 			(at 243.84 77.47 90)
 			(effects
 				(font
@@ -43972,7 +44495,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 290.83 44.45 90)
 			(effects
 				(font
@@ -44109,7 +44632,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 339.09 132.08 90)
 			(effects
 				(font
@@ -44177,7 +44700,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 339.09 113.03 90)
 			(effects
 				(font
@@ -44289,6 +44812,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 171.45 118.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fb30b0de-d319-4f36-8f89-e8c08d516ae2")
+		(property "Reference" "#PWR039"
+			(at 171.45 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 171.45 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 171.45 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 171.45 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 171.45 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e680ba2d-185e-4683-9717-5d22095a76f6")
+		)
+		(instances
+			(project "Frooastboard A600"
+				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
+					(reference "#PWR039")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "SW_45°_69")
 		(lib_id "Frooastboard Symbols:SW_45°")
 		(at 300.99 132.08 0)
@@ -44314,7 +44903,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 300.99 132.08 90)
 			(effects
 				(font
@@ -44382,7 +44971,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 377.19 59.69 90)
 			(effects
 				(font
@@ -44450,7 +45039,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 339.09 59.69 90)
 			(effects
 				(font

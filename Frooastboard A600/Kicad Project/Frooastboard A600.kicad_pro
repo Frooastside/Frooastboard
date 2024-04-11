@@ -491,7 +491,8 @@
     },
     "net_colors": null,
     "netclass_assignments": {
-      "Net-(C18-Pad1)": "Power"
+      "Net-(C18-Pad1)": "Power",
+      "Net-(D53-K)": "Power"
     },
     "netclass_patterns": [
       {
@@ -509,6 +510,10 @@
       {
         "netclass": "Power",
         "pattern": "+1V1"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "CapsLock"
       }
     ]
   },
