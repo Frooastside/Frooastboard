@@ -1,0 +1,155 @@
+(footprint "LED_RGB_SMD_6028_Reverse"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.5 -3 0)
+		(layer "F.SilkS")
+		(uuid "796e4130-aeb9-40e7-98f6-8c19d4d3fb28")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LED_RGB_SMD_6028_Reverse"
+		(at 0 2.286 0)
+		(layer "F.Fab")
+		(uuid "6b79850b-b105-4ef2-ae51-bd4707a25349")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cc7f42dd-7549-4c42-8f3e-8e11b9594b8b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e301c6de-21cb-4426-b1eb-13da18935c16")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bdfa81c0-66de-4d72-86fc-1118e019a17c")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2 -1.5)
+		(end -2 -2.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5049b77b-1687-4db1-beac-f0b6e9433f2a")
+	)
+	(fp_line
+		(start -1.6 -1.4)
+		(end -1.6 1.4)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dea14198-c734-41ab-9e5b-fbe61ff65ea1")
+	)
+	(fp_line
+		(start -1.6 1.4)
+		(end 1.6 1.4)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9d17b729-b521-4987-94aa-0fe38cba00e4")
+	)
+	(fp_line
+		(start 1.6 -1.4)
+		(end -1.6 -1.4)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bed122c0-538f-426d-b60b-999616efcb92")
+	)
+	(fp_line
+		(start 1.6 1.4)
+		(end 1.6 -1.4)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3512a247-289f-4f18-b348-b4d3706ec6aa")
+	)
+	(pad "" np_thru_hole oval
+		(at -0.65 0 180)
+		(size 2 4.5)
+		(drill oval 2 4.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "052a5021-475b-4fde-b374-31b48ac901ca")
+	)
+	(pad "" np_thru_hole oval
+		(at 0 -1.25 90)
+		(size 2 3.3)
+		(drill oval 2 3.3)
+		(layers "*.Cu" "*.Mask")
+		(uuid "70eae9f4-3ab8-4849-ad9c-5208543141a6")
+	)
+	(pad "" np_thru_hole oval
+		(at 0 1.25 90)
+		(size 2 3.3)
+		(drill oval 2 3.3)
+		(layers "*.Cu" "*.Mask")
+		(uuid "bdcdf12f-057b-4083-a1da-dc95118826fa")
+	)
+	(pad "" np_thru_hole oval
+		(at 0.65 0 180)
+		(size 2 4.5)
+		(drill oval 2 4.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "bcb63eb3-9fc7-4d40-b3b9-b7e8b3941409")
+	)
+	(pad "1" smd rect
+		(at -2.5 0)
+		(size 1.55 2.4)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "6667fb5b-eae6-40fd-971c-2d6dc0ef3098")
+	)
+	(pad "2" smd rect
+		(at 2.5 0)
+		(size 1.55 2.4)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "b8a7f0c2-05a8-4221-93ce-e6e1230ae8e6")
+	)
+)
