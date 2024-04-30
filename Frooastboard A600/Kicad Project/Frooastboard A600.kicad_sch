@@ -25876,7 +25876,7 @@
 	)
 	(global_label "RP_D+"
 		(shape bidirectional)
-		(at 238.76 246.38 0)
+		(at 238.76 248.92 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -25886,7 +25886,7 @@
 		)
 		(uuid "64fb005a-b912-4bbb-8b34-c93f52139a22")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 249.2065 246.38 0)
+			(at 249.2065 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26382,7 +26382,7 @@
 	)
 	(global_label "RP_D-"
 		(shape bidirectional)
-		(at 238.76 248.92 0)
+		(at 238.76 246.38 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -26392,7 +26392,7 @@
 		)
 		(uuid "e6f25f46-3a74-4ed5-9dcd-31de62fd7e4d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 249.2065 248.92 0)
+			(at 249.2065 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34509,7 +34509,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 320.04 132.08 90)
 			(effects
 				(font
@@ -39144,7 +39144,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Solderable:MX-Solderable-8U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-7U"
 			(at 281.94 132.08 90)
 			(effects
 				(font
