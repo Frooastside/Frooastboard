@@ -36669,7 +36669,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "873005d3-8614-4775-99e1-d34c95a50625")
 		(property "Reference" "FPC1"
@@ -37451,7 +37451,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8d17745a-83fd-4937-afa6-a0fabdc1e821")
 		(property "Reference" "FPC2"
@@ -44060,7 +44060,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ecdf5ba2-9715-4b42-a703-74b7b5b63043")
 		(property "Reference" "J8"
