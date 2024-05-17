@@ -168,14 +168,14 @@
 			(pin free line
 				(at -7.62 8.89 0)
 				(length 5.08)
-				(name "5"
+				(name "0"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "5"
+				(number "0"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -186,14 +186,14 @@
 			(pin free line
 				(at -7.62 -8.89 0)
 				(length 5.08)
-				(name "6"
+				(name "0"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "6"
+				(number "0"
 					(effects
 						(font
 							(size 1.27 1.27)

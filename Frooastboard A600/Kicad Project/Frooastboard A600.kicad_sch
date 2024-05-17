@@ -5,7 +5,7 @@
 	(uuid "7d029107-1fa3-4eef-b164-7cff975764b1")
 	(paper "A3")
 	(lib_symbols
-		(symbol "AFA01-SXXFCX-00:AFA01-S04FCC-00"
+		(symbol "AFA24-SXXFIA-HF:AFA24-S04FIA-HF"
 			(pin_names
 				(offset 1.016)
 			)
@@ -20,7 +20,7 @@
 					)
 				)
 			)
-			(property "Value" "AFA01-S04FCC-00"
+			(property "Value" "AFA24-S04FIA-HF"
 				(at 0 19.1516 0)
 				(effects
 					(font
@@ -28,7 +28,7 @@
 					)
 				)
 			)
-			(property "Footprint" "kicad_lceda:FPC-SMD_AFA01-S04FCC-00"
+			(property "Footprint" "AFA24-SXXFIA-HF:FPC-SMD_4P-P1.00_AFA24-S04FIA-HF"
 				(at 0 8.9662 0)
 				(effects
 					(font
@@ -73,7 +73,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "AFA01-S04FCC-00_1_1"
+			(symbol "AFA24-S04FIA-HF_1_1"
 				(rectangle
 					(start -2.54 11.43)
 					(end 7.62 -11.43)
@@ -94,6 +94,42 @@
 					)
 					(fill
 						(type outline)
+					)
+				)
+				(pin free line
+					(at -7.62 -8.89 0)
+					(length 5.08)
+					(name "0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin free line
+					(at -7.62 8.89 0)
+					(length 5.08)
+					(name "0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
 					)
 				)
 				(pin passive line
@@ -161,42 +197,6 @@
 						)
 					)
 					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin free line
-					(at -7.62 8.89 0)
-					(length 5.08)
-					(name "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin free line
-					(at -7.62 -8.89 0)
-					(length 5.08)
-					(name "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -33494,6 +33494,107 @@
 		)
 	)
 	(symbol
+		(lib_name "AFA24-SXXFIA-HF:AFA24-S04FIA-HF")
+		(lib_id "AFA24-SXXFIA-HF:AFA24-S04FIA-HF")
+		(at 236.22 182.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5ed6ea71-fee1-44a6-969a-4a047f064341")
+		(property "Reference" "FPC4"
+			(at 245.11 181.6099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "AFA24-S04FIA-HF"
+			(at 245.11 184.1499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "AFA24-SXXFIA-HF:FPC-SMD_4P-P1.00_AFA24-S04FIA-HF"
+			(at 236.22 173.9138 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.szlcsc.com/product/details_253765.html"
+			(at 236.22 178.9938 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 236.22 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SuppliersPartNumber" "C262381"
+			(at 236.22 184.0738 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "uuid" "std:063cb82895d54dd9b14eebbc8e5be19d"
+			(at 236.22 184.0738 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ea9f34ba-4c6c-479f-b934-092dd8750ba3")
+		)
+		(pin "0"
+			(uuid "fc940df8-792e-4f3c-97af-6d4e6c7eb0e6")
+		)
+		(pin "4"
+			(uuid "7fd51a6f-41cf-41a7-9ad6-2467eb73014d")
+		)
+		(pin "0"
+			(uuid "da3e68ea-636e-4def-bc55-c407e2d4929e")
+		)
+		(pin "3"
+			(uuid "d0be002b-f7e9-4820-a7bb-b4e2bb924004")
+		)
+		(pin "1"
+			(uuid "d77b433a-523c-44ac-9f5d-6bf875b26b56")
+		)
+		(instances
+			(project "Frooastboard A600"
+				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
+					(reference "FPC4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 347.98 213.36 0)
 		(unit 1)
@@ -36663,106 +36764,6 @@
 		)
 	)
 	(symbol
-		(lib_id "AFA01-SXXFCX-00:AFA01-S04FCC-00")
-		(at 157.48 242.57 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(fields_autoplaced yes)
-		(uuid "873005d3-8614-4775-99e1-d34c95a50625")
-		(property "Reference" "FPC1"
-			(at 166.37 241.2999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "AFA01-S04FCC-00"
-			(at 166.37 243.8399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "AFA01-SXXFCX-00:FPC-SMD_4P-P1.00_AFA01-S04FCC-00"
-			(at 157.48 233.6038 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.szlcsc.com/product/details_253765.html"
-			(at 157.48 238.6838 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 157.48 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SuppliersPartNumber" "C262381"
-			(at 157.48 243.7638 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "uuid" "std:063cb82895d54dd9b14eebbc8e5be19d"
-			(at 157.48 243.7638 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "23e8a2d2-b0bb-44e1-99ed-1bec92b54987")
-		)
-		(pin "3"
-			(uuid "c0d84a92-622d-4e33-abb3-09dfbc4fa7c8")
-		)
-		(pin "4"
-			(uuid "e2e0a687-fd4f-4b13-9b32-4511e928d70c")
-		)
-		(pin "5"
-			(uuid "350ce077-23f2-4be4-96af-3042ed247613")
-		)
-		(pin "6"
-			(uuid "e9c77c0e-fdde-4df1-9504-80c338899c3c")
-		)
-		(pin "1"
-			(uuid "a50c9003-a0d8-45a0-ab17-7af7b6494fe2")
-		)
-		(instances
-			(project "Frooastboard A600"
-				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
-					(reference "FPC1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 123.19 92.71 180)
 		(unit 1)
@@ -37439,106 +37440,6 @@
 			(project "Frooastboard A600"
 				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
 					(reference "D61")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "AFA01-SXXFCX-00:AFA01-S04FCC-00")
-		(at 236.22 182.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8d17745a-83fd-4937-afa6-a0fabdc1e821")
-		(property "Reference" "FPC2"
-			(at 245.11 181.6099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "AFA01-S04FCC-00"
-			(at 245.11 184.1499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "AFA01-SXXFCX-00:FPC-SMD_4P-P1.00_AFA01-S04FCC-00"
-			(at 236.22 173.9138 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.szlcsc.com/product/details_253765.html"
-			(at 236.22 178.9938 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 236.22 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SuppliersPartNumber" "C262381"
-			(at 236.22 184.0738 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "uuid" "std:063cb82895d54dd9b14eebbc8e5be19d"
-			(at 236.22 184.0738 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "d650671e-e836-4c18-aaec-6d9a3c6bc0ed")
-		)
-		(pin "3"
-			(uuid "f6dd4057-7e00-4133-9380-2e1957588750")
-		)
-		(pin "4"
-			(uuid "a713a944-8308-4e2f-8f17-1c41cce696cb")
-		)
-		(pin "5"
-			(uuid "fed2901d-17de-4664-ba75-65b3d6729abe")
-		)
-		(pin "6"
-			(uuid "d06a36e4-2857-4647-8420-0e54abf12e40")
-		)
-		(pin "1"
-			(uuid "a8052297-b496-4592-a5ac-5cee4d50295e")
-		)
-		(instances
-			(project "Frooastboard A600"
-				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
-					(reference "FPC2")
 					(unit 1)
 				)
 			)
@@ -41671,106 +41572,6 @@
 		)
 	)
 	(symbol
-		(lib_id "AFA01-SXXFCX-00:AFA01-S04FCC-00")
-		(at 181.61 106.68 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c6eb16bc-38f6-456a-9f71-3a22ca88468e")
-		(property "Reference" "FPC3"
-			(at 190.5 105.4099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "AFA01-S04FCC-00"
-			(at 190.5 107.9499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "AFA01-SXXFCX-00:FPC-SMD_4P-P1.00_AFA01-S04FCC-00"
-			(at 181.61 97.7138 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.szlcsc.com/product/details_253765.html"
-			(at 181.61 102.7938 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 181.61 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SuppliersPartNumber" "C262381"
-			(at 181.61 107.8738 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "uuid" "std:063cb82895d54dd9b14eebbc8e5be19d"
-			(at 181.61 107.8738 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c00037a5-cc42-4323-a74f-2df64971446c")
-		)
-		(pin "3"
-			(uuid "0cc79b50-b481-4e46-b7dd-7e8473fea165")
-		)
-		(pin "4"
-			(uuid "b292b3af-87d9-4a2a-9d55-7d21d86471a3")
-		)
-		(pin "5"
-			(uuid "b3046061-e14c-47f6-a44b-ffb8d4053696")
-		)
-		(pin "6"
-			(uuid "bdefca56-a74b-4eb0-8adb-1d862b592807")
-		)
-		(pin "1"
-			(uuid "ab768034-f24b-4f64-b18e-1b169b3d0987")
-		)
-		(instances
-			(project "Frooastboard A600"
-				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
-					(reference "FPC3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D_Small")
 		(at 298.45 46.99 90)
 		(unit 1)
@@ -43540,6 +43341,107 @@
 		)
 	)
 	(symbol
+		(lib_name "AFA24-SXXFIA-HF:AFA24-S04FIA-HF")
+		(lib_id "AFA24-SXXFIA-HF:AFA24-S04FIA-HF")
+		(at 181.61 106.68 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e19fc964-96f4-46e9-94fa-3cda832690a6")
+		(property "Reference" "FPC1"
+			(at 190.5 105.4099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "AFA24-S04FIA-HF"
+			(at 190.5 107.9499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "AFA24-SXXFIA-HF:FPC-SMD_4P-P1.00_AFA24-S04FIA-HF"
+			(at 181.61 97.7138 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.szlcsc.com/product/details_253765.html"
+			(at 181.61 102.7938 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 181.61 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SuppliersPartNumber" "C262381"
+			(at 181.61 107.8738 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "uuid" "std:063cb82895d54dd9b14eebbc8e5be19d"
+			(at 181.61 107.8738 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4e19ea98-6864-4178-8e7d-20e176b2a6cc")
+		)
+		(pin "0"
+			(uuid "aad0c690-6153-4852-9dde-594b1ca01402")
+		)
+		(pin "4"
+			(uuid "26000174-dfe7-4e33-af90-d07712ceffd7")
+		)
+		(pin "0"
+			(uuid "b86db0b6-b111-4274-98af-a275c726580a")
+		)
+		(pin "3"
+			(uuid "6f9773da-6377-4b40-8ae0-79c49d334d0d")
+		)
+		(pin "1"
+			(uuid "649c251b-0048-43f0-a85b-2c7622deb5e5")
+		)
+		(instances
+			(project "Frooastboard A600"
+				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
+					(reference "FPC1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 114.3 127 0)
 		(unit 1)
@@ -44940,6 +44842,107 @@
 			(project "Frooastboard A600"
 				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
 					(reference "MX41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "AFA24-SXXFIA-HF:AFA24-S04FIA-HF")
+		(lib_id "AFA24-SXXFIA-HF:AFA24-S04FIA-HF")
+		(at 157.48 242.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "fcdae2b0-bed0-4b35-828e-7c263aa906f0")
+		(property "Reference" "FPC2"
+			(at 166.37 241.2999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "AFA24-S04FIA-HF"
+			(at 166.37 243.8399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "AFA24-SXXFIA-HF:FPC-SMD_4P-P1.00_AFA24-S04FIA-HF"
+			(at 157.48 233.6038 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.szlcsc.com/product/details_253765.html"
+			(at 157.48 238.6838 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 157.48 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SuppliersPartNumber" "C262381"
+			(at 157.48 243.7638 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "uuid" "std:063cb82895d54dd9b14eebbc8e5be19d"
+			(at 157.48 243.7638 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "79088a1e-6084-4a08-9a24-1d6ae41c363c")
+		)
+		(pin "0"
+			(uuid "177c1b52-a4c7-43c5-a5be-22660b8d1c6d")
+		)
+		(pin "4"
+			(uuid "d5365484-63fb-4a34-91dd-e0f12bdfb3d1")
+		)
+		(pin "0"
+			(uuid "353335b8-a755-4a2e-800b-b35b23f143bb")
+		)
+		(pin "3"
+			(uuid "e987312c-9f85-4bec-99c4-602561a80d6c")
+		)
+		(pin "1"
+			(uuid "8a5ab459-9c54-4d66-b080-c8e2e960814d")
+		)
+		(instances
+			(project "Frooastboard A600"
+				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
+					(reference "FPC2")
 					(unit 1)
 				)
 			)
