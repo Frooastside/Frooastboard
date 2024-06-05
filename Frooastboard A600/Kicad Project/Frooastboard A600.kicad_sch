@@ -33187,7 +33187,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "5bcccd92-bb06-4ede-b592-a4e02b47e10a")
 		(property "Reference" "R12"
 			(at 234.95 261.62 0)
@@ -33494,7 +33494,6 @@
 		)
 	)
 	(symbol
-		(lib_name "AFA24-SXXFIA-HF:AFA24-S04FIA-HF")
 		(lib_id "AFA24-SXXFIA-HF:AFA24-S04FIA-HF")
 		(at 236.22 182.88 0)
 		(unit 1)
@@ -33667,7 +33666,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f763980-1197-4ef8-b79f-84f37d269c57")
 		(property "Reference" "R13"
@@ -34041,6 +34040,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 157.48 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5120796"
 			(at 157.48 184.15 0)
 			(effects
 				(font
@@ -34521,7 +34529,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6adbe221-77c4-4f65-9489-f0dd43677e43")
 		(property "Reference" "C18"
@@ -36770,7 +36778,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8941fe75-7c27-44c5-9d92-fd363908b42c")
 		(property "Reference" "R5"
 			(at 118.618 91.948 0)
@@ -40364,7 +40372,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "b9cbd4b4-69a1-441d-801d-4f9fa1cc1cc0")
 		(property "Reference" "USB1"
 			(at 215.392 233.68 0)
@@ -43341,7 +43349,6 @@
 		)
 	)
 	(symbol
-		(lib_name "AFA24-SXXFIA-HF:AFA24-S04FIA-HF")
 		(lib_id "AFA24-SXXFIA-HF:AFA24-S04FIA-HF")
 		(at 181.61 106.68 0)
 		(unit 1)
@@ -43669,7 +43676,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "e575976d-e710-4a74-9061-d6b3a865e66c")
 		(property "Reference" "R11"
 			(at 226.06 261.62 0)
@@ -44446,7 +44453,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f8c38b17-1744-4d5f-bd04-77d2737f7deb")
 		(property "Reference" "R6"
 			(at 126.492 91.948 0)
@@ -44848,7 +44855,6 @@
 		)
 	)
 	(symbol
-		(lib_name "AFA24-SXXFIA-HF:AFA24-S04FIA-HF")
 		(lib_id "AFA24-SXXFIA-HF:AFA24-S04FIA-HF")
 		(at 157.48 242.57 0)
 		(unit 1)
