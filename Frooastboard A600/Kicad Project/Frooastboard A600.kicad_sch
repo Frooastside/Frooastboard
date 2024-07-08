@@ -5,7 +5,7 @@
 	(uuid "7d029107-1fa3-4eef-b164-7cff975764b1")
 	(paper "A3")
 	(lib_symbols
-		(symbol "AFA24-SXXFIA-HF:AFA24-S04FIA-HF"
+		(symbol "AFA01-SXXFCX-00:AFA01-S04FCC-00"
 			(pin_names
 				(offset 1.016)
 			)
@@ -20,7 +20,7 @@
 					)
 				)
 			)
-			(property "Value" "AFA24-S04FIA-HF"
+			(property "Value" "AFA01-S04FCC-00"
 				(at 0 19.1516 0)
 				(effects
 					(font
@@ -28,7 +28,7 @@
 					)
 				)
 			)
-			(property "Footprint" "AFA24-SXXFIA-HF:FPC-SMD_4P-P1.00_AFA24-S04FIA-HF"
+			(property "Footprint" "kicad_lceda:FPC-SMD_AFA01-S04FCC-00"
 				(at 0 8.9662 0)
 				(effects
 					(font
@@ -73,7 +73,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "AFA24-S04FIA-HF_1_1"
+			(symbol "AFA01-S04FCC-00_1_1"
 				(rectangle
 					(start -2.54 11.43)
 					(end 7.62 -11.43)
@@ -94,42 +94,6 @@
 					)
 					(fill
 						(type outline)
-					)
-				)
-				(pin free line
-					(at -7.62 -8.89 0)
-					(length 5.08)
-					(name "0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin free line
-					(at -7.62 8.89 0)
-					(length 5.08)
-					(name "0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
 					)
 				)
 				(pin passive line
@@ -197,6 +161,42 @@
 						)
 					)
 					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin free line
+					(at -7.62 8.89 0)
+					(length 5.08)
+					(name "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin free line
+					(at -7.62 -8.89 0)
+					(length 5.08)
+					(name "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17834,12 +17834,6 @@
 		(uuid "39e81a61-1ed3-4f06-bf21-80e3ea78949b")
 	)
 	(junction
-		(at 127 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3d4d0463-fb35-4219-8cdd-4f3e6b056827")
-	)
-	(junction
 		(at 241.3 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -17892,12 +17886,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "463fedea-cde0-4704-9452-da5f4a08ada8")
-	)
-	(junction
-		(at 114.3 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "47146863-72fe-48ce-b2c6-124a1f26e67a")
 	)
 	(junction
 		(at 256.54 59.69)
@@ -18438,12 +18426,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c32c73ed-39d1-4440-93bc-5e7e6bf4bef3")
-	)
-	(junction
-		(at 139.7 102.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c447bfb4-e596-475e-95db-f4fb9d1c9141")
 	)
 	(junction
 		(at 260.35 104.14)
@@ -19759,16 +19741,6 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 116.84) (xy 114.3 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "20dca733-577a-4552-b157-01e78e7ee7d9")
-	)
-	(wire
-		(pts
 			(xy 355.6 86.36) (xy 374.65 86.36)
 		)
 		(stroke
@@ -20056,16 +20028,6 @@
 			(type default)
 		)
 		(uuid "2a45411b-4388-4c62-9238-a833b30b7640")
-	)
-	(wire
-		(pts
-			(xy 139.7 102.87) (xy 139.7 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2ac30fcb-4338-4d2f-bf7a-e39151357f33")
 	)
 	(wire
 		(pts
@@ -20419,16 +20381,6 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 109.22) (xy 114.3 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "37fe6b53-31e1-45a5-b480-86aba7360c39")
-	)
-	(wire
-		(pts
 			(xy 269.24 53.34) (xy 288.29 53.34)
 		)
 		(stroke
@@ -20456,16 +20408,6 @@
 			(type default)
 		)
 		(uuid "396b01a5-fc95-4867-b0bf-31832af1adcd")
-	)
-	(wire
-		(pts
-			(xy 127 124.46) (xy 127 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "398d0676-2cf6-4c1c-9912-ee91b133cccc")
 	)
 	(wire
 		(pts
@@ -20749,7 +20691,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 102.87) (xy 107.95 102.87)
+			(xy 107.95 102.87) (xy 173.99 102.87)
 		)
 		(stroke
 			(width 0)
@@ -21079,16 +21021,6 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 124.46) (xy 139.7 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4edea815-cb10-4e6a-995b-2c81bb50e977")
-	)
-	(wire
-		(pts
 			(xy 34.29 181.61) (xy 34.29 184.15)
 		)
 		(stroke
@@ -21096,16 +21028,6 @@
 			(type default)
 		)
 		(uuid "4f0531d8-9954-42db-b6d8-84ee9b06455a")
-	)
-	(wire
-		(pts
-			(xy 139.7 102.87) (xy 173.99 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4feb8200-5ec3-4782-a44b-37a165d9026b")
 	)
 	(wire
 		(pts
@@ -21256,16 +21178,6 @@
 			(type default)
 		)
 		(uuid "5599e358-f3a0-44a9-a277-651a25eb530b")
-	)
-	(wire
-		(pts
-			(xy 127 116.84) (xy 127 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "55e5a2d9-9a3c-4273-87f5-3642f347b09d")
 	)
 	(wire
 		(pts
@@ -22019,16 +21931,6 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 107.95) (xy 107.95 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "77ad3388-2707-480b-8f29-b15d8f4fbf47")
-	)
-	(wire
-		(pts
 			(xy 36.83 236.22) (xy 41.91 236.22)
 		)
 		(stroke
@@ -22256,16 +22158,6 @@
 			(type default)
 		)
 		(uuid "80f33bc0-3978-4448-a09b-0394760e487e")
-	)
-	(wire
-		(pts
-			(xy 114.3 124.46) (xy 114.3 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "81164b88-6195-472a-8354-bd33db8f0447")
 	)
 	(wire
 		(pts
@@ -23479,16 +23371,6 @@
 	)
 	(wire
 		(pts
-			(xy 127 105.41) (xy 127 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b8262f23-6acc-4bba-a5b2-be60b84cc5c6")
-	)
-	(wire
-		(pts
 			(xy 237.49 71.12) (xy 250.19 71.12)
 		)
 		(stroke
@@ -23559,7 +23441,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 107.95) (xy 173.99 107.95)
+			(xy 107.95 107.95) (xy 173.99 107.95)
 		)
 		(stroke
 			(width 0)
@@ -24059,7 +23941,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 105.41) (xy 173.99 105.41)
+			(xy 107.95 105.41) (xy 173.99 105.41)
 		)
 		(stroke
 			(width 0)
@@ -24809,16 +24691,6 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 116.84) (xy 139.7 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f3ba4f1f-6af4-4223-95de-612177a469da")
-	)
-	(wire
-		(pts
 			(xy 173.99 110.49) (xy 171.45 110.49)
 		)
 		(stroke
@@ -25066,16 +24938,6 @@
 			(type default)
 		)
 		(uuid "fef8b0e3-e7b3-4df0-8c84-71fa8bbe3709")
-	)
-	(wire
-		(pts
-			(xy 107.95 105.41) (xy 127 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ffe8a621-85b0-4213-984b-2e4a2ea05e52")
 	)
 	(rectangle
 		(start 279.4 229.87)
@@ -26608,7 +26470,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 241.3 137.16 90)
 			(effects
 				(font
@@ -26762,7 +26624,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 260.35 64.77 90)
 			(effects
 				(font
@@ -26984,7 +26846,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 326.39 49.53 90)
 			(effects
 				(font
@@ -27039,72 +26901,6 @@
 			(project "Frooastboard A600"
 				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
 					(reference "D45")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 139.7 127 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "075fd849-2fac-44b5-9a15-1908e085a66d")
-		(property "Reference" "#PWR038"
-			(at 139.7 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 139.7 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 139.7 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 139.7 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 139.7 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "51dc1909-de64-4c52-9922-5cdd27591542")
-		)
-		(instances
-			(project "Frooastboard A600"
-				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
-					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -27475,7 +27271,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 374.65 100.33 90)
 			(effects
 				(font
@@ -27695,7 +27491,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 307.34 85.09 90)
 			(effects
 				(font
@@ -27851,7 +27647,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 288.29 120.65 90)
 			(effects
 				(font
@@ -27916,7 +27712,7 @@
 		(at 54.61 257.81 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "1dd5d9bc-9d22-4b05-b989-d1f100322fe2")
@@ -28008,7 +27804,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 260.35 46.99 90)
 			(effects
 				(font
@@ -28401,7 +28197,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 326.39 102.87 90)
 			(effects
 				(font
@@ -28647,7 +28443,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 355.6 137.16 90)
 			(effects
 				(font
@@ -28802,7 +28598,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 279.4 100.33 90)
 			(effects
 				(font
@@ -28956,7 +28752,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 279.4 64.77 90)
 			(effects
 				(font
@@ -29044,7 +28840,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 374.65 82.55 90)
 			(effects
 				(font
@@ -29132,7 +28928,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 307.34 49.53 90)
 			(effects
 				(font
@@ -29489,7 +29285,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 374.65 64.77 90)
 			(effects
 				(font
@@ -29616,73 +29412,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 139.7 121.92 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "30eb314d-77c5-4f71-9a5c-4a6ecd6b68b4")
-		(property "Reference" "R3"
-			(at 142.748 120.904 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1k"
-			(at 141.986 122.936 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 139.7 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 139.7 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 139.7 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4a4ee68d-6526-410b-98ee-f20b1cd910ab")
-		)
-		(pin "1"
-			(uuid "78506def-03e7-477d-a4e0-70b256352505")
-		)
-		(instances
-			(project "Frooastboard A600"
-				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
-					(reference "R3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D_Small")
 		(at 250.19 85.09 90)
 		(unit 1)
@@ -29710,7 +29439,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 250.19 85.09 90)
 			(effects
 				(font
@@ -30002,7 +29731,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 260.35 100.33 90)
 			(effects
 				(font
@@ -30158,7 +29887,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 298.45 137.16 90)
 			(effects
 				(font
@@ -30246,7 +29975,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 383.54 67.31 90)
 			(effects
 				(font
@@ -30301,140 +30030,6 @@
 			(project "Frooastboard A600"
 				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
 					(reference "D107")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 114.3 121.92 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "398c0ade-ffa2-4163-9e24-460726e930a5")
-		(property "Reference" "R15"
-			(at 117.348 120.904 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1k"
-			(at 116.586 122.936 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 114.3 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 114.3 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 114.3 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ab9b9558-53b7-4fb2-84ca-379a39e96df7")
-		)
-		(pin "1"
-			(uuid "2386d58e-56ef-450c-942c-a21c45fbe78d")
-		)
-		(instances
-			(project "Frooastboard A600"
-				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
-					(reference "R15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 139.7 113.03 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "39cb7b13-5ab2-4cd6-ae1f-7815d93c138e")
-		(property "Reference" "D26"
-			(at 142.748 112.014 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "ST_LED1"
-			(at 146.558 114.046 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Frooastboard Footprints:LED_RGB_SMD_6028_Reverse"
-			(at 139.7 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 139.7 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 139.7 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9e078197-282a-48c2-a1de-70a0f67b73fb")
-		)
-		(pin "2"
-			(uuid "e8f8913d-53ff-4564-8ea4-278fa17f97e2")
-		)
-		(instances
-			(project "Frooastboard A600"
-				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
-					(reference "D26")
 					(unit 1)
 				)
 			)
@@ -30603,7 +30198,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 307.34 67.31 90)
 			(effects
 				(font
@@ -30757,7 +30352,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 269.24 85.09 90)
 			(effects
 				(font
@@ -30845,7 +30440,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 241.3 82.55 90)
 			(effects
 				(font
@@ -31001,7 +30596,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 260.35 137.16 90)
 			(effects
 				(font
@@ -31336,73 +30931,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 127 121.92 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "422f96f4-f3a6-4e30-b036-e9938db9b37c")
-		(property "Reference" "R1"
-			(at 130.048 120.904 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1k"
-			(at 129.286 122.936 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 127 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 127 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 127 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4e7cfea8-feb5-4f54-90cc-1166936351dc")
-		)
-		(pin "1"
-			(uuid "9a0a7cb9-b310-4544-9ae5-744a499263f1")
-		)
-		(instances
-			(project "Frooastboard A600"
-				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
-					(reference "R1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D_Small")
 		(at 269.24 120.65 90)
 		(unit 1)
@@ -31430,7 +30958,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 269.24 120.65 90)
 			(effects
 				(font
@@ -31518,7 +31046,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 260.35 82.55 90)
 			(effects
 				(font
@@ -31606,7 +31134,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 355.6 100.33 90)
 			(effects
 				(font
@@ -31896,7 +31424,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 260.35 118.11 90)
 			(effects
 				(font
@@ -31984,7 +31512,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 250.19 120.65 90)
 			(effects
 				(font
@@ -32273,7 +31801,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 326.39 67.31 90)
 			(effects
 				(font
@@ -32361,7 +31889,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 317.5 137.16 90)
 			(effects
 				(font
@@ -32719,7 +32247,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 326.39 120.65 90)
 			(effects
 				(font
@@ -32840,73 +32368,6 @@
 			(project "Frooastboard A600"
 				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
 					(reference "#PWR07")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 114.3 113.03 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5629a398-a272-46e7-b85b-9bf81bc3136b")
-		(property "Reference" "D6"
-			(at 117.348 112.014 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "ST_LED3"
-			(at 121.158 114.046 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Frooastboard Footprints:LED_RGB_SMD_6028_Reverse"
-			(at 114.3 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 114.3 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 114.3 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "efba819e-b91e-4cb1-a592-5fe057abf14f")
-		)
-		(pin "2"
-			(uuid "a5cbc4fd-97dd-4f13-b998-c3dcd8568499")
-		)
-		(instances
-			(project "Frooastboard A600"
-				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
-					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -33277,7 +32738,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 345.44 85.09 90)
 			(effects
 				(font
@@ -33365,7 +32826,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 345.44 49.53 90)
 			(effects
 				(font
@@ -33494,7 +32955,7 @@
 		)
 	)
 	(symbol
-		(lib_id "AFA24-SXXFIA-HF:AFA24-S04FIA-HF")
+		(lib_id "AFA01-SXXFCX-00:AFA01-S04FCC-00")
 		(at 236.22 182.88 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -33521,7 +32982,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "AFA24-SXXFIA-HF:FPC-SMD_4P-P1.00_AFA24-S04FIA-HF"
+		(property "Footprint" "AFA01-SXXFCX-00:FPC-SMD_4P-P1.00_AFA01-S04FCC-00"
 			(at 236.22 173.9138 0)
 			(effects
 				(font
@@ -33569,13 +33030,13 @@
 		(pin "2"
 			(uuid "ea9f34ba-4c6c-479f-b934-092dd8750ba3")
 		)
-		(pin "0"
+		(pin "5"
 			(uuid "fc940df8-792e-4f3c-97af-6d4e6c7eb0e6")
 		)
 		(pin "4"
 			(uuid "7fd51a6f-41cf-41a7-9ad6-2467eb73014d")
 		)
-		(pin "0"
+		(pin "6"
 			(uuid "da3e68ea-636e-4def-bc55-c407e2d4929e")
 		)
 		(pin "3"
@@ -34308,7 +33769,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 317.5 64.77 90)
 			(effects
 				(font
@@ -34462,7 +33923,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 279.4 46.99 90)
 			(effects
 				(font
@@ -34824,7 +34285,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 374.65 118.11 90)
 			(effects
 				(font
@@ -35048,7 +34509,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 307.34 102.87 90)
 			(effects
 				(font
@@ -35204,7 +34665,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 317.5 118.11 90)
 			(effects
 				(font
@@ -35429,7 +34890,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 298.45 118.11 90)
 			(effects
 				(font
@@ -35717,7 +35178,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 250.19 49.53 90)
 			(effects
 				(font
@@ -35805,7 +35266,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 279.4 137.16 90)
 			(effects
 				(font
@@ -36029,7 +35490,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 241.3 64.77 90)
 			(effects
 				(font
@@ -36252,7 +35713,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 336.55 137.16 90)
 			(effects
 				(font
@@ -36340,7 +35801,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 298.45 82.55 90)
 			(effects
 				(font
@@ -36539,7 +36000,7 @@
 		(at 222.25 213.36 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(fields_autoplaced yes)
@@ -36711,7 +36172,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 279.4 118.11 90)
 			(effects
 				(font
@@ -36776,7 +36237,7 @@
 		(at 123.19 92.71 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "8941fe75-7c27-44c5-9d92-fd363908b42c")
@@ -36938,7 +36399,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 288.29 67.31 90)
 			(effects
 				(font
@@ -37003,7 +36464,7 @@
 		(at 46.99 233.68 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(fields_autoplaced yes)
@@ -37100,7 +36561,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 250.19 67.31 90)
 			(effects
 				(font
@@ -37229,73 +36690,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 127 113.03 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8c221c51-4c03-4c89-9021-d9584148fed2")
-		(property "Reference" "D16"
-			(at 130.048 112.014 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "ST_LED2"
-			(at 133.858 114.046 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Frooastboard Footprints:LED_RGB_SMD_6028_Reverse"
-			(at 127 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 127 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 127 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b6ca6cae-4ef2-4e97-8511-1310dc06ce8f")
-		)
-		(pin "2"
-			(uuid "9b7e1de7-7a14-47bf-973b-8b4ebdce065b")
-		)
-		(instances
-			(project "Frooastboard A600"
-				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
-					(reference "D16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 26.67 186.69 0)
 		(unit 1)
@@ -37393,7 +36787,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 355.6 118.11 90)
 			(effects
 				(font
@@ -37481,7 +36875,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 345.44 67.31 90)
 			(effects
 				(font
@@ -37569,7 +36963,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 355.6 82.55 90)
 			(effects
 				(font
@@ -37657,7 +37051,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 336.55 118.11 90)
 			(effects
 				(font
@@ -38221,7 +37615,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 250.19 102.87 90)
 			(effects
 				(font
@@ -38309,7 +37703,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 307.34 120.65 90)
 			(effects
 				(font
@@ -38512,7 +37906,7 @@
 		(at 46.99 260.35 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(fields_autoplaced yes)
@@ -38811,7 +38205,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 317.5 100.33 90)
 			(effects
 				(font
@@ -38967,7 +38361,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 241.3 118.11 90)
 			(effects
 				(font
@@ -39123,7 +38517,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 288.29 49.53 90)
 			(effects
 				(font
@@ -39479,7 +38873,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 345.44 102.87 90)
 			(effects
 				(font
@@ -39567,7 +38961,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 355.6 64.77 90)
 			(effects
 				(font
@@ -39927,7 +39321,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 336.55 46.99 90)
 			(effects
 				(font
@@ -40015,7 +39409,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 336.55 100.33 90)
 			(effects
 				(font
@@ -40103,7 +39497,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 364.49 67.31 90)
 			(effects
 				(font
@@ -40493,7 +39887,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 298.45 64.77 90)
 			(effects
 				(font
@@ -40581,7 +39975,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 374.65 137.16 90)
 			(effects
 				(font
@@ -40803,7 +40197,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 269.24 102.87 90)
 			(effects
 				(font
@@ -40891,7 +40285,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 298.45 100.33 90)
 			(effects
 				(font
@@ -40979,7 +40373,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 336.55 82.55 90)
 			(effects
 				(font
@@ -41137,7 +40531,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 336.55 64.77 90)
 			(effects
 				(font
@@ -41363,7 +40757,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 269.24 67.31 90)
 			(effects
 				(font
@@ -41519,7 +40913,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 326.39 85.09 90)
 			(effects
 				(font
@@ -41607,7 +41001,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 298.45 46.99 90)
 			(effects
 				(font
@@ -41763,7 +41157,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 288.29 85.09 90)
 			(effects
 				(font
@@ -41851,7 +41245,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 317.5 82.55 90)
 			(effects
 				(font
@@ -41980,7 +41374,7 @@
 		(at 102.87 243.84 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(fields_autoplaced yes)
@@ -42548,7 +41942,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 317.5 46.99 90)
 			(effects
 				(font
@@ -42838,7 +42232,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 269.24 49.53 90)
 			(effects
 				(font
@@ -43131,7 +42525,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 279.4 82.55 90)
 			(effects
 				(font
@@ -43219,7 +42613,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 241.3 100.33 90)
 			(effects
 				(font
@@ -43349,7 +42743,7 @@
 		)
 	)
 	(symbol
-		(lib_id "AFA24-SXXFIA-HF:AFA24-S04FIA-HF")
+		(lib_id "AFA01-SXXFCX-00:AFA01-S04FCC-00")
 		(at 181.61 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -43376,7 +42770,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "AFA24-SXXFIA-HF:FPC-SMD_4P-P1.00_AFA24-S04FIA-HF"
+		(property "Footprint" "AFA01-SXXFCX-00:FPC-SMD_4P-P1.00_AFA01-S04FCC-00"
 			(at 181.61 97.7138 0)
 			(effects
 				(font
@@ -43424,13 +42818,13 @@
 		(pin "2"
 			(uuid "4e19ea98-6864-4178-8e7d-20e176b2a6cc")
 		)
-		(pin "0"
+		(pin "6"
 			(uuid "aad0c690-6153-4852-9dde-594b1ca01402")
 		)
 		(pin "4"
 			(uuid "26000174-dfe7-4e33-af90-d07712ceffd7")
 		)
-		(pin "0"
+		(pin "5"
 			(uuid "b86db0b6-b111-4274-98af-a275c726580a")
 		)
 		(pin "3"
@@ -43443,72 +42837,6 @@
 			(project "Frooastboard A600"
 				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
 					(reference "FPC1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 114.3 127 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e3a255f2-6bc8-442a-8dac-b7e39a81859d")
-		(property "Reference" "#PWR037"
-			(at 114.3 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 114.3 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 114.3 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 114.3 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 114.3 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "79b0c891-32a1-4f66-91fb-5f4159729705")
-		)
-		(instances
-			(project "Frooastboard A600"
-				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
-					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -43609,7 +42937,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 364.49 120.65 90)
 			(effects
 				(font
@@ -43766,7 +43094,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 288.29 102.87 90)
 			(effects
 				(font
@@ -43967,7 +43295,7 @@
 		(at 259.08 213.36 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(fields_autoplaced yes)
@@ -44245,72 +43573,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 127 127 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f1670d81-f253-467a-9f37-e4241645600c")
-		(property "Reference" "#PWR024"
-			(at 127 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 127 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 127 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 127 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 127 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "86ee5c7e-bbf9-4d86-a599-b6a871d8bf80")
-		)
-		(instances
-			(project "Frooastboard A600"
-				(path "/7d029107-1fa3-4eef-b164-7cff975764b1"
-					(reference "#PWR024")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_name "SW_45°_66")
 		(lib_id "Frooastboard Symbols:SW_45°")
 		(at 243.84 77.47 0)
@@ -44451,7 +43713,7 @@
 		(at 125.73 92.71 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "f8c38b17-1744-4d5f-bd04-77d2737f7deb")
@@ -44656,7 +43918,7 @@
 		(at 54.61 231.14 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "f963dfe7-b005-440e-b195-dac821093b1f")
@@ -44855,7 +44117,7 @@
 		)
 	)
 	(symbol
-		(lib_id "AFA24-SXXFIA-HF:AFA24-S04FIA-HF")
+		(lib_id "AFA01-SXXFCX-00:AFA01-S04FCC-00")
 		(at 157.48 242.57 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -44882,7 +44144,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "AFA24-SXXFIA-HF:FPC-SMD_4P-P1.00_AFA24-S04FIA-HF"
+		(property "Footprint" "AFA01-SXXFCX-00:FPC-SMD_4P-P1.00_AFA01-S04FCC-00"
 			(at 157.48 233.6038 0)
 			(effects
 				(font
@@ -44930,13 +44192,13 @@
 		(pin "2"
 			(uuid "79088a1e-6084-4a08-9a24-1d6ae41c363c")
 		)
-		(pin "0"
+		(pin "6"
 			(uuid "177c1b52-a4c7-43c5-a5be-22660b8d1c6d")
 		)
 		(pin "4"
 			(uuid "d5365484-63fb-4a34-91dd-e0f12bdfb3d1")
 		)
-		(pin "0"
+		(pin "5"
 			(uuid "353335b8-a755-4a2e-800b-b35b23f143bb")
 		)
 		(pin "3"
@@ -45118,7 +44380,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 241.3 46.99 90)
 			(effects
 				(font
