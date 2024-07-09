@@ -134,7 +134,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R1"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "3289ac8a-e22a-426b-aa8b-1b967fe5ceaf")
 			(effects
@@ -146,7 +146,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 0 -1.65 270)
+			(at 0 -1.65 -90)
 			(layer "B.Fab")
 			(uuid "f9495658-89b0-44b2-a9e0-58b42d11e291")
 			(effects
@@ -302,7 +302,7 @@
 			(uuid "50a51ef7-cd26-4974-9bf2-09276f647227")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "B.Fab")
 			(uuid "9dd41e81-bda6-49c3-b4c8-d52205284f63")
 			(effects
@@ -350,7 +350,7 @@
 		(property "Reference" "REF**"
 			(at 0.5 2.5 180)
 			(layer "B.SilkS")
-			(uuid "61ae5c9d-3900-446a-8732-5911277a3b4d")
+			(uuid "2f47298b-dac2-4226-a673-225a1ed29faa")
 			(effects
 				(font
 					(size 1 1)
@@ -362,7 +362,7 @@
 		(property "Value" "Reference_Hole_3mm"
 			(at 0 -2.286 180)
 			(layer "B.Fab")
-			(uuid "17959de4-5f6a-4356-8508-4a7e5e7e9c4c")
+			(uuid "a7ed90e4-0a37-41e3-b0ed-7d4e041e9828")
 			(effects
 				(font
 					(size 1 1)
@@ -376,7 +376,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "94ecc6da-eba9-4d43-839b-d23a5042b639")
+			(uuid "e347f041-5695-447d-8648-9415e5dd20dd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -389,7 +389,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "189b85ec-969c-41f8-af83-997dc6fd63cf")
+			(uuid "08150e99-7e05-4675-9aa3-93ef7ecd7f2e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -402,7 +402,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "41d9a3e9-b0e9-48a3-adb9-d877f7a1869f")
+			(uuid "eda89806-6603-468c-a0da-3fe291400b6e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -413,10 +413,10 @@
 		(attr smd)
 		(pad "" np_thru_hole circle
 			(at 0 0 90)
-			(size 2 2)
+			(size 3 3)
 			(drill oval 3)
 			(layers "F&B.Cu" "*.Paste" "*.Mask")
-			(uuid "faab3290-fa68-4ae4-bffd-94dea23597c3")
+			(uuid "bffd6198-98a3-46d7-bfb8-825fc9b152be")
 		)
 	)
 	(footprint "Frooastboard Footprints:LED_RGB_SMD_6028_Reverse"
@@ -880,7 +880,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R15"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "e4e5fd04-f921-473b-a9b0-b2382b76ecd6")
 			(effects
@@ -892,7 +892,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 0 -1.65 270)
+			(at 0 -1.65 -90)
 			(layer "B.Fab")
 			(uuid "96dab505-e83f-4bfa-ab2a-b2b4075b2400")
 			(effects
@@ -1048,7 +1048,7 @@
 			(uuid "9bd5912d-2cd8-4dd3-affc-553df1552fa1")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "B.Fab")
 			(uuid "2aa2b85b-0d25-4676-88b7-a4c09738959a")
 			(effects
@@ -1096,7 +1096,7 @@
 		(property "Reference" "REF**"
 			(at 0.5 2.5 180)
 			(layer "B.SilkS")
-			(uuid "814191c6-9a99-45fd-bd71-dd7f603dec13")
+			(uuid "8f323829-cd6f-454f-b1fb-cff87792cedf")
 			(effects
 				(font
 					(size 1 1)
@@ -1108,7 +1108,7 @@
 		(property "Value" "Reference_Hole_3mm"
 			(at 0 -2.286 180)
 			(layer "B.Fab")
-			(uuid "900bce83-c7df-482b-a258-e35d4ed09755")
+			(uuid "5c833789-e6b9-4bc4-86ad-7406ef4cd23a")
 			(effects
 				(font
 					(size 1 1)
@@ -1122,7 +1122,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "352944a6-b2a3-4324-99cf-ba417712aa5f")
+			(uuid "472af524-bd19-40ed-ba58-660931488fb4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1135,7 +1135,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "0b567193-fdab-4153-a910-0df895efd479")
+			(uuid "d1d31624-17ac-4dc2-bb09-26992706eb94")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1148,7 +1148,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "10d87845-7b48-4de7-a853-709a0bfa7065")
+			(uuid "d9069176-2c3d-4997-ba81-a612418b1214")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1159,10 +1159,10 @@
 		(attr smd)
 		(pad "" np_thru_hole circle
 			(at 0 0 90)
-			(size 2 2)
+			(size 3 3)
 			(drill oval 3)
 			(layers "F&B.Cu" "*.Paste" "*.Mask")
-			(uuid "693893c1-a418-45d8-886b-983b121dfcd2")
+			(uuid "ee4c22dd-d8ec-40f9-803b-8bdb3c84eabd")
 		)
 	)
 	(footprint "Frooastboard Footprints:LED_RGB_SMD_6028_Reverse"
@@ -1341,7 +1341,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R3"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "c8f51747-ea76-4cbf-b7ed-96b0431fb1bf")
 			(effects
@@ -1353,7 +1353,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 0 -1.65 270)
+			(at 0 -1.65 -90)
 			(layer "B.Fab")
 			(uuid "087200f2-4785-4ca8-b3a2-daea06cf9a36")
 			(effects
@@ -1509,7 +1509,7 @@
 			(uuid "84537cd9-4296-4ca6-8fd1-2e21debfb73e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "B.Fab")
 			(uuid "7cd97f82-f28b-4aae-9ccf-128e653fa93e")
 			(effects

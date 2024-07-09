@@ -64,7 +64,7 @@
 	(attr through_hole)
 	(pad "" np_thru_hole circle
 		(at 0 0 90)
-		(size 2 2)
+		(size 3 3)
 		(drill oval 3)
 		(layers "F&B.Cu" "*.Paste" "*.Mask")
 		(uuid "70eae9f4-3ab8-4849-ad9c-5208543141a6")
