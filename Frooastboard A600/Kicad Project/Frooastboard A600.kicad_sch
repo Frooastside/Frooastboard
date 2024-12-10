@@ -40061,7 +40061,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Solderable:MX-Solderable-ISO"
+		(property "Footprint" "MX_Solderable:MX-Solderable-ISO-Rotated"
 			(at 347.98 80.01 90)
 			(effects
 				(font
